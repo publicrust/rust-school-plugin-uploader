@@ -1,0 +1,39 @@
+name: Plugins Notify
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run build
+      - name: Notify Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          MAX_ATTACHMENT_BYTES: 8000000
+          HTTP_TIMEOUT: 30000
+          PLUGINS_CONCURRENCY: 6
+          ONLY_CS_ATTACHMENTS: "true"
+        run: |
+          # CHANGE: Limit webhook run to 10 minutes to respect schedule window while still persisting state.
+          # WHY: Workflow must stop even if full backlog not processed and continue next iteration with cached state.
+          # QUOTE(TЗ): "типо запускаться каждые 15 минут и 10 минут работать и обновлять состояния".
+          # REF: REQ-10
+          timeout 600 node dist/index.js plugins notify || true
+      - name: Persist state
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name  "GitHub Action"
+          git add -A plugins-state.json || true
+          git commit -m "ci: update plugins-state.json" || true
+          git pull --rebase --autostash || true
+          git push || true

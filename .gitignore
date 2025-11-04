@@ -1,0 +1,11 @@
+# CHANGE: Ignore local node dependencies and build artifacts.
+# WHY: Prevent committing machine-specific cache while retaining state file.
+# QUOTE(TЗ): "ток сделай .gitignore ... plugins-state.json файла не должно быть в гит игноре"
+# REF: REQ-10
+# SOURCE: internal reasoning
+node_modules/
+dist/
+.DS_Store
+.env
+*.log
+*.tmp

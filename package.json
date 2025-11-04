@@ -1,0 +1,36 @@
+{
+  "name": "plugins-notifier",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tsc --noEmit",
+    "start": "node dist/index.js plugins notify",
+    "dev": "tsx src/index.ts plugins notify",
+    "dry": "tsx src/index.ts plugins dry-run",
+    "reset": "tsx src/index.ts plugins reset",
+    "state": "tsx src/index.ts plugins state",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "dotenv": "^16.5.0",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "p-limit": "^3.1.0",
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.11.30",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.3",
+    "vitest": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
