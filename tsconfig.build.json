@@ -1,0 +1,14 @@
+// CHANGE: Dedicated build configuration targeting src directory.
+// WHY: Ensures compiled output is emitted under dist/index.js without including tests.
+// QUOTE(TЗ): "Смотри... Перенесём все файлы в корень" (structure cleanup) and subsequent build failure.
+// REF: REQ-10
+// SOURCE: internal reasoning
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": ["src/**/*"]
+}

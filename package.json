@@ -4,7 +4,7 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p tsconfig.build.json",
     "lint": "tsc --noEmit",
     "start": "node dist/index.js plugins notify",
     "dev": "tsx src/index.ts plugins notify",
