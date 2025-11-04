@@ -3209,8 +3209,2089 @@
       "notifiedAt": "2025-11-04T15:09:10.996Z",
       "contentHash": "3381fbad0300b59205a2ff82a0c3e1e39768873659228c3834e28c2674e3a6d1",
       "fileSize": 12682
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Airstrike.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Airstrike.cs",
+      "notifiedAt": "2025-11-04T15:22:17.485Z",
+      "contentHash": "d9bc67830078578c53a1dd26dee5353350dfe484e464a1e81e3e1d593544fb1b",
+      "fileSize": 38317
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Bounty.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Bounty.cs",
+      "notifiedAt": "2025-11-04T15:22:17.962Z",
+      "contentHash": "e470637e283047d4aacc3411699b6c57eac68169bcf7621532c41c7536fef1d4",
+      "fileSize": 58720
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/LootLogs.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/LootLogs.cs",
+      "notifiedAt": "2025-11-04T15:22:18.388Z",
+      "contentHash": "7f501c766c394a250327b0d12a964ec862e888527e541c74373d3f806f72d7f2",
+      "fileSize": 11098
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/LustyMap.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/LustyMap.cs",
+      "notifiedAt": "2025-11-04T15:22:18.774Z",
+      "contentHash": "11284e4b70001de623c21f1980921d317318c679216d2730c0308fb8fb86ccbc",
+      "fileSize": 105454
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/MeasurementTool.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/MeasurementTool.cs",
+      "notifiedAt": "2025-11-04T15:22:19.627Z",
+      "contentHash": "febf62b00fe2eb3161b890f3bf30a336ea52c2b2a19b56b50f063a02e5774f7d",
+      "fileSize": 916
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/ZoneDomes.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/ZoneDomes.cs",
+      "notifiedAt": "2025-11-04T15:22:20.002Z",
+      "contentHash": "e8d459619d1d695cd020825729afc5ad8b6e663b434fa646c0a4acaf6cea2392",
+      "fileSize": 12777
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/BuildCost.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/BuildCost.cs",
+      "notifiedAt": "2025-11-04T15:22:20.456Z",
+      "contentHash": "59be35b9edc7f73a0286548cf5af7b87892bc2be41d366a69b2a355448e95aab",
+      "fileSize": 8245
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Clans.cs",
+      "notifiedAt": "2025-11-04T15:22:20.827Z",
+      "contentHash": "d0bb0314a10ce69199af1b478e310784cc1b4ff11fb7eb1018f10d39050d4187",
+      "fileSize": 43448
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/CustomCommands.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/CustomCommands.cs",
+      "notifiedAt": "2025-11-04T15:22:21.411Z",
+      "contentHash": "a8f8107ae9df29539dfad8298b3d193cabf8f1eeb715af9c28597ba51147487e",
+      "fileSize": 48221
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DMDeployables.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DMDeployables.cs",
+      "notifiedAt": "2025-11-04T15:22:22.932Z",
+      "contentHash": "f257d3995d3544bea53f26bdeddbad645412e4eb7e59c955927aaad280a16802",
+      "fileSize": 2720
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DoorLimiter.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DoorLimiter.cs",
+      "notifiedAt": "2025-11-04T15:22:23.903Z",
+      "contentHash": "010ad73b3687337fde0edf568786e0e5f148edac4682702f8b8afaf8849d1bbb",
+      "fileSize": 8011
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/PrefabSniffer.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/PrefabSniffer.cs",
+      "notifiedAt": "2025-11-04T15:22:24.431Z",
+      "contentHash": "7fd75e6c59e78b74c6597d3fd1efddef06ceeadbc2ac45c65943491084caf594",
+      "fileSize": 5052
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RealisticWeather.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RealisticWeather.cs",
+      "notifiedAt": "2025-11-04T15:22:24.998Z",
+      "contentHash": "a8f57d4f70c0ff8b2cbfe746c7b2d3750e2425d3c2eed0234cae1b41e081b360",
+      "fileSize": 79132
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ZoneDomes.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ZoneDomes.cs",
+      "notifiedAt": "2025-11-04T15:22:25.501Z",
+      "contentHash": "e8d459619d1d695cd020825729afc5ad8b6e663b434fa646c0a4acaf6cea2392",
+      "fileSize": 12777
+    },
+    "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/EasyChatCommands.cs": {
+      "key": "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/EasyChatCommands.cs",
+      "notifiedAt": "2025-11-04T15:22:25.836Z",
+      "contentHash": "442f1f073713bb8fa0918e2ca24856b0af4acdaaa8b3842e428299102d3f6e1e",
+      "fileSize": 1999
+    },
+    "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/AntiFoundationStack.cs": {
+      "key": "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/AntiFoundationStack.cs",
+      "notifiedAt": "2025-11-04T15:22:26.154Z",
+      "contentHash": "fe144e865535cc69ff0581abd14309489580bcc41dc530120be7bed9465c51df",
+      "fileSize": 2449
+    },
+    "https://raw.githubusercontent.com/Skippeh/Oxide.Ext.ServerManager/master/Oxide.Ext.ServerManager/Plugins/ServerManagerLoader.cs": {
+      "key": "https://raw.githubusercontent.com/Skippeh/Oxide.Ext.ServerManager/master/Oxide.Ext.ServerManager/Plugins/ServerManagerLoader.cs",
+      "notifiedAt": "2025-11-04T15:22:26.642Z",
+      "contentHash": "6145da70e07da3b85397ef5b773ce7e43f317f77ff8a97ab40ae2a71b3593bf2",
+      "fileSize": 214
+    },
+    "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/VisualDebug.cs": {
+      "key": "https://raw.githubusercontent.com/i-love-code/PublicRustPlugins/master/VisualDebug.cs",
+      "notifiedAt": "2025-11-04T15:22:27.385Z",
+      "contentHash": "026d54e67fd95ae837357f97260fad743fb734c7b21870d2f07d238a38194c4d",
+      "fileSize": 41246
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/AutomatedEvents.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/AutomatedEvents.cs",
+      "notifiedAt": "2025-11-04T15:22:27.931Z",
+      "contentHash": "a9a0b4ef71cb37dee36f9d06a51f5e0de5de35d5c6124d46fbf671602e7dfdce",
+      "fileSize": 4018
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Clans.cs",
+      "notifiedAt": "2025-11-04T15:22:28.640Z",
+      "contentHash": "f3dec390d827e8e1a616a11ce481a5e120906da4e081f9c017fd6dd6fc23075a",
+      "fileSize": 54284
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/CustomResourceSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/CustomResourceSpawns.cs",
+      "notifiedAt": "2025-11-04T15:22:30.087Z",
+      "contentHash": "0d7176300b9bad155c096375643efe75277844af6351dc56a74e7c03d4bc985b",
+      "fileSize": 22017
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/InventoryGuardian.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/InventoryGuardian.cs",
+      "notifiedAt": "2025-11-04T15:22:31.142Z",
+      "contentHash": "61692c7ba8f5b354e0989e0542ce546b6d8c9c491403f27932dc1decab34da1a",
+      "fileSize": 34711
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Jail.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Jail.cs",
+      "notifiedAt": "2025-11-04T15:22:31.651Z",
+      "contentHash": "7275fc51bbfd98dac0713f1b78d9651b098bb7960edfb6552209a759e41a2bc3",
+      "fileSize": 19687
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Martyrdom.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/Martyrdom.cs",
+      "notifiedAt": "2025-11-04T15:22:32.191Z",
+      "contentHash": "13882511463ad86ad44e4af5032a14da1d55654d0993e60178cc601b9c4db379",
+      "fileSize": 10315
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/MedicRevive.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/MedicRevive.cs",
+      "notifiedAt": "2025-11-04T15:22:32.575Z",
+      "contentHash": "f187463d42591794be8b2eb669bf9615422e91e2e4a1c0ed7cd1a31192cfbdc2",
+      "fileSize": 714
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/RadtownAnimals.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/RadtownAnimals.cs",
+      "notifiedAt": "2025-11-04T15:22:32.957Z",
+      "contentHash": "d06aaaeefba7642f24afe4d4794472c45ba65f9e7015ab9d9933b44e56ebf4d4",
+      "fileSize": 20655
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/RemoveDefaultRadiation.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/RemoveDefaultRadiation.cs",
+      "notifiedAt": "2025-11-04T15:22:33.584Z",
+      "contentHash": "82ee09ff8aaa57944ffebd41912d7b2b1aadaddb0c7ee09e8af985c584bf88c3",
+      "fileSize": 1930
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/SkipNightVote.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/SkipNightVote.cs",
+      "notifiedAt": "2025-11-04T15:22:34.218Z",
+      "contentHash": "dae912e70cf6857e6befa1cb878bc2da151098cf1ddbbc019a84bb7dcff6450d",
+      "fileSize": 11506
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/StashLogs.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/StashLogs.cs",
+      "notifiedAt": "2025-11-04T15:22:34.718Z",
+      "contentHash": "129eab36ad4b551bb2ef6c8072ac0f43647ae409c6f9406983215aed69a68baf",
+      "fileSize": 1317
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/StashSniffer.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/StashSniffer.cs",
+      "notifiedAt": "2025-11-04T15:22:35.144Z",
+      "contentHash": "83e529b193a44d812a8c70df8004f78cd8d27b438e628dd8f6fe426425f21e2d",
+      "fileSize": 6716
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RandomDeployables.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RandomDeployables.cs",
+      "notifiedAt": "2025-11-04T15:22:35.488Z",
+      "contentHash": "cd4c1a20b71abac113b93249fb7f507a9e21cf17838418ea20ada63d6b1e4ec7",
+      "fileSize": 5143
+    },
+    "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/Clans.cs",
+      "notifiedAt": "2025-11-04T15:22:35.898Z",
+      "contentHash": "f3dec390d827e8e1a616a11ce481a5e120906da4e081f9c017fd6dd6fc23075a",
+      "fileSize": 54284
+    },
+    "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/GatherManager.cs": {
+      "key": "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/GatherManager.cs",
+      "notifiedAt": "2025-11-04T15:22:36.420Z",
+      "contentHash": "a0c0910a3aaebe35c969ab842274c8b21528540e0c56f2dd119cf78f38d485fd",
+      "fileSize": 27918
+    },
+    "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/Trade.cs": {
+      "key": "https://raw.githubusercontent.com/byome/oxide-configuration/master/plugins/Trade.cs",
+      "notifiedAt": "2025-11-04T15:22:37.265Z",
+      "contentHash": "d8ed0aa6a7adb5ba6aff7d2bbcf6d09476da7b8e7209524ab3c9291a3d11f256",
+      "fileSize": 42843
+    },
+    "https://raw.githubusercontent.com/zanderwar/oxide-statlogger/master/StatLogger.cs": {
+      "key": "https://raw.githubusercontent.com/zanderwar/oxide-statlogger/master/StatLogger.cs",
+      "notifiedAt": "2025-11-04T15:22:37.633Z",
+      "contentHash": "b1c6cc4a268f67a663fd07133ceb9967861ba095c4854ff33ff4c2020937fd91",
+      "fileSize": 9566
+    },
+    "https://raw.githubusercontent.com/davidc538/rust-oxide-aimbots/master/AimTrain.cs": {
+      "key": "https://raw.githubusercontent.com/davidc538/rust-oxide-aimbots/master/AimTrain.cs",
+      "notifiedAt": "2025-11-04T15:22:38.003Z",
+      "contentHash": "2f63ef7612ed27b3554c3f82fa84bf1b9032d901e85c1a570cd117804214e66c",
+      "fileSize": 12313
+    },
+    "https://raw.githubusercontent.com/DeusProx/SkinZ/master/ItemSkinRandomizer.cs": {
+      "key": "https://raw.githubusercontent.com/DeusProx/SkinZ/master/ItemSkinRandomizer.cs",
+      "notifiedAt": "2025-11-04T15:22:38.618Z",
+      "contentHash": "206d110d20b5a2a1fdddeee51af503f1df93f63e9aa04a4dfe315a6d04572e09",
+      "fileSize": 5819
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/InventoryGuardian.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/InventoryGuardian.cs",
+      "notifiedAt": "2025-11-04T15:22:39.062Z",
+      "contentHash": "b249b7afcb3c0b6bdf81ab7910cfd1424239a4f57197dbe5cde5bd6b728e100e",
+      "fileSize": 34708
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/WeaponsOnBack.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/WeaponsOnBack.cs",
+      "notifiedAt": "2025-11-04T15:22:39.475Z",
+      "contentHash": "b35acfb803bdbe4e113df3803d8619ff03ebff967450c6138d6c4931b8120a6b",
+      "fileSize": 24887
+    },
+    "https://raw.githubusercontent.com/Hallonkaka/OxidePlugins/master/Rust/Assets/UiPlus/Scripts/UiPlus.cs": {
+      "key": "https://raw.githubusercontent.com/Hallonkaka/OxidePlugins/master/Rust/Assets/UiPlus/Scripts/UiPlus.cs",
+      "notifiedAt": "2025-11-04T15:22:39.996Z",
+      "contentHash": "0e35fd32a40b1324d48567075de31f9015a6b21925905d30063f123a18d6e035",
+      "fileSize": 47129
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/7 days to die/Teleport.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/7 days to die/Teleport.cs",
+      "notifiedAt": "2025-11-04T15:22:40.500Z",
+      "contentHash": "1831b22e47390039ce64089221c1c281f6b1ee8f02bcab30b069d9e825717939",
+      "fileSize": 21282
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/hurtworld/AutoClean.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/hurtworld/AutoClean.cs",
+      "notifiedAt": "2025-11-04T15:22:41.579Z",
+      "contentHash": "d241af6847f2edc1c89205935f7ce78b4e265dc28a23c41f8e279e2531035af6",
+      "fileSize": 5597
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/hurtworld/VoteChecker.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/hurtworld/VoteChecker.cs",
+      "notifiedAt": "2025-11-04T15:22:43.555Z",
+      "contentHash": "3ccf9fcc8e771cdf5d86130c8892cd27efade785224d8f8cdcfe28b92880ff80",
+      "fileSize": 29162
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/reign of kings/InventoryInfo.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/reign of kings/InventoryInfo.cs",
+      "notifiedAt": "2025-11-04T15:22:45.605Z",
+      "contentHash": "b637c99437264ed02b0ecba45964b1d58b425dac7d5f528c1bd045e269e10fd2",
+      "fileSize": 16276
+    },
+    "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/Friends.cs",
+      "notifiedAt": "2025-11-04T15:22:47.626Z",
+      "contentHash": "3671f49c503c086d9e490229e1b37bf2ce81e4de9fb921e8a9a5a64bab1b78af",
+      "fileSize": 15800
+    },
+    "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/GatherConfig.cs": {
+      "key": "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/GatherConfig.cs",
+      "notifiedAt": "2025-11-04T15:22:49.775Z",
+      "contentHash": "aec68b793267608a519620557604a0e3329f76b1325e5f9257105d4bf85c42db",
+      "fileSize": 7430
+    },
+    "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/Pets.cs": {
+      "key": "https://raw.githubusercontent.com/Nogrod/OxidePlugins/master/Rust/Pets.cs",
+      "notifiedAt": "2025-11-04T15:22:51.520Z",
+      "contentHash": "3db36efb4b384df3a65fe44179e9b3253adbb31aa67c38339472bdea563d6965",
+      "fileSize": 23777
+    },
+    "https://raw.githubusercontent.com/tolland/incursion/master/plugins/IemUI.cs": {
+      "key": "https://raw.githubusercontent.com/tolland/incursion/master/plugins/IemUI.cs",
+      "notifiedAt": "2025-11-04T15:22:53.815Z",
+      "contentHash": "875886f8bca00529c118d8f8ac42f41f162b34ab756738193a43d41eb0b439e1",
+      "fileSize": 34013
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/GeoIP.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/GeoIP.cs",
+      "notifiedAt": "2025-11-04T15:22:55.510Z",
+      "contentHash": "2edb24e1ee65adf049f8ac4bf6e697590533ff1fb12f5238643829e1ec39bc56",
+      "fileSize": 9833
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/HappyHour.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/HappyHour.cs",
+      "notifiedAt": "2025-11-04T15:22:57.820Z",
+      "contentHash": "c312f08aaf497953cec478c326366481b9ed38a778325d5dff88b4d4d29d6090",
+      "fileSize": 11057
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ID.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ID.cs",
+      "notifiedAt": "2025-11-04T15:22:59.673Z",
+      "contentHash": "82173dd6afb4b9536b7d68a83a071449838a66836bf43bb2b021db9a09882534",
+      "fileSize": 2534
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Ignore.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Ignore.cs",
+      "notifiedAt": "2025-11-04T15:23:01.675Z",
+      "contentHash": "7c6f74a6c83e2c757f768a84647d021cde0f6a22a3a1a93b80f1607c76dd64d4",
+      "fileSize": 12325
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Martyrdom.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Martyrdom.cs",
+      "notifiedAt": "2025-11-04T15:23:03.590Z",
+      "contentHash": "13882511463ad86ad44e4af5032a14da1d55654d0993e60178cc601b9c4db379",
+      "fileSize": 10315
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RemoveDefaultRadiation.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/RemoveDefaultRadiation.cs",
+      "notifiedAt": "2025-11-04T15:23:05.593Z",
+      "contentHash": "82ee09ff8aaa57944ffebd41912d7b2b1aadaddb0c7ee09e8af985c584bf88c3",
+      "fileSize": 1930
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ScubaSteve.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ScubaSteve.cs",
+      "notifiedAt": "2025-11-04T15:23:07.562Z",
+      "contentHash": "b3737410d30e23a20e12fd3faa55dbc523641fe9fe297f3f1a2a15ffccbfea4c",
+      "fileSize": 8489
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ShowHitInfo.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/ShowHitInfo.cs",
+      "notifiedAt": "2025-11-04T15:23:09.521Z",
+      "contentHash": "f9684684e0c81d7462bed29c738022539f94ce8ae325bbf80147b8522652b87a",
+      "fileSize": 3616
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/TimedHeliCall.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/TimedHeliCall.cs",
+      "notifiedAt": "2025-11-04T15:23:11.879Z",
+      "contentHash": "23f8ca2fcdf6ba40fc9d4d1486f19230433de00ad4de3d3820df68100f5564bd",
+      "fileSize": 1869
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/UsableToBelt.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/UsableToBelt.cs",
+      "notifiedAt": "2025-11-04T15:23:13.598Z",
+      "contentHash": "0be03a30e4fa17cabe7cad71b01c73e8ad32e4118b9df5b52dbf075bc33aa9a4",
+      "fileSize": 1735
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/XPSync.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/XPSync.cs",
+      "notifiedAt": "2025-11-04T15:23:15.605Z",
+      "contentHash": "9598f0433ea601a3770e2ac345ad85b0bfcea03a12dd3d5087cdf01a36378deb",
+      "fileSize": 3466
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HumanNPC.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HumanNPC.cs",
+      "notifiedAt": "2025-11-04T15:23:18.083Z",
+      "contentHash": "46e1a697fc22591e8ee286d2b43bfae13740b59c9a59021af4fcca1715a9e0dc",
+      "fileSize": 109314
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PillsHere.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PillsHere.cs",
+      "notifiedAt": "2025-11-04T15:23:19.668Z",
+      "contentHash": "7a18dd7388a2a82a5cbb451183dbf6704ed86a34c675af9c3f097d84524f227a",
+      "fileSize": 1647
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SyringeDenerf.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SyringeDenerf.cs",
+      "notifiedAt": "2025-11-04T15:23:21.503Z",
+      "contentHash": "b73f6b6f414dace4162c31525a2168893efd77f969337c99dd7104b9af4eea87",
+      "fileSize": 1580
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CopyPaste.cs",
+      "notifiedAt": "2025-11-04T15:23:23.694Z",
+      "contentHash": "90cac7d8faed602e7c7113fbcdb96f92100741d61c3b3b3c6499852a14f728bf",
+      "fileSize": 50539
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomLootSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomLootSpawns.cs",
+      "notifiedAt": "2025-11-04T15:23:25.776Z",
+      "contentHash": "f77e2be6a15e11ad8303574aa8d1f0b0f7b6c503144b04926a2d1ef150875918",
+      "fileSize": 31166
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EasyTeams.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EasyTeams.cs",
+      "notifiedAt": "2025-11-04T15:23:27.733Z",
+      "contentHash": "ff9da02fecfb669886d2d36a025735f92df8c5139fcb88b98cb71a53bec21dbe",
+      "fileSize": 46803
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/MagazinBoost.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/MagazinBoost.cs",
+      "notifiedAt": "2025-11-04T15:23:29.582Z",
+      "contentHash": "da298db1d8d83716928523f805336cb416050ad8c91d52e2e4fdbf47438dd6fd",
+      "fileSize": 14368
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/Babel.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/Babel.cs",
+      "notifiedAt": "2025-11-04T15:23:31.637Z",
+      "contentHash": "5bf7b5636299c696ad3ff924f430589088c4281187999bb8c0ee15d0bd240e8a",
+      "fileSize": 6389
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/BabelChat.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/BabelChat.cs",
+      "notifiedAt": "2025-11-04T15:23:33.614Z",
+      "contentHash": "cde0d92d9cfc7f9d64bbada1b0ae1ab14fc211da7a3b45f507b93b8683f2f6f5",
+      "fileSize": 4223
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/LangGen.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/LangGen.cs",
+      "notifiedAt": "2025-11-04T15:23:35.755Z",
+      "contentHash": "a964b4d80f5689a95e78ea3377376171cc7e9e070069b110336e6a96bbf5d070",
+      "fileSize": 4736
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/Ping.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/Ping.cs",
+      "notifiedAt": "2025-11-04T15:23:37.566Z",
+      "contentHash": "7f29c2ba286cc7148d78253b04fea68f4b18afa820fa99081224acd88ab1c7bf",
+      "fileSize": 6815
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/PrivateMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/PrivateMessages.cs",
+      "notifiedAt": "2025-11-04T15:23:39.692Z",
+      "contentHash": "8770d77806b282ddc0c78f92349cecd8678a7a9f004c8a114faed10204b1c6a2",
+      "fileSize": 5958
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Everlight.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Everlight.cs",
+      "notifiedAt": "2025-11-04T15:23:41.618Z",
+      "contentHash": "d9c70d7a07e5741460c9a7d29284fa7ea4fe66f63f5a4ff6aa439f81e8cb1311",
+      "fileSize": 486
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PathFinding.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PathFinding.cs",
+      "notifiedAt": "2025-11-04T15:23:43.655Z",
+      "contentHash": "f167311bc7bb167be62c8541726a6edcf30dda75d05d3df45e57622c351ce46d",
+      "fileSize": 23033
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/QuickSmelt.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/QuickSmelt.cs",
+      "notifiedAt": "2025-11-04T15:23:45.545Z",
+      "contentHash": "22e063c438ba91b2d9e728c0fc10a02ec2e9c5e950f6368a2d4551eb46a44a73",
+      "fileSize": 6800
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ZoneDomes.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ZoneDomes.cs",
+      "notifiedAt": "2025-11-04T15:23:47.573Z",
+      "contentHash": "f29fffa337bad5509f300ee42cd8e4c237740a9dca3d98a942fa5e5f45a42099",
+      "fileSize": 11899
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ComponentBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ComponentBlocker.cs",
+      "notifiedAt": "2025-11-04T15:23:49.868Z",
+      "contentHash": "cb8a52bcf026c66af5e914af058c8f2d00c6bdefa58008e57c04996741f1d5dc",
+      "fileSize": 20573
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Build.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Build.cs",
+      "notifiedAt": "2025-11-04T15:23:51.763Z",
+      "contentHash": "af458140ecf0ba1ebc0218b2af41573ee20c8a958254517c0361e321efc37bcb",
+      "fileSize": 68405
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ZoneCommand.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ZoneCommand.cs",
+      "notifiedAt": "2025-11-04T15:23:53.530Z",
+      "contentHash": "f4e740466500f6bce749e63ca9cda2e697cbc24908d7cd4c15ff9e84525d698a",
+      "fileSize": 23849
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/AFK.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/AFK.cs",
+      "notifiedAt": "2025-11-04T15:23:55.764Z",
+      "contentHash": "b4c6b8e02270e4b1ed920ecb0aaa768b6e508077d6eec5aa494caafe22defc0d",
+      "fileSize": 4483
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/CountryBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/CountryBlock.cs",
+      "notifiedAt": "2025-11-04T15:23:57.579Z",
+      "contentHash": "6480d83f0fd033c51f2ae13fc679b857931427aa99e6098e78032587c939017f",
+      "fileSize": 5633
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/StrikeSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/StrikeSystem.cs",
+      "notifiedAt": "2025-11-04T15:23:59.614Z",
+      "contentHash": "c3a66ec18183d3b6eccbaf8599a212c2e85d40ffdce9e13698a6c00818ff658a",
+      "fileSize": 20475
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/TimedExecute.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/universal/TimedExecute.cs",
+      "notifiedAt": "2025-11-04T15:24:01.869Z",
+      "contentHash": "afa391456862a4392b309bbccac6e4f48cd7fbb4dac9f15ae1f91454ba5c9346",
+      "fileSize": 6774
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CraftingController.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CraftingController.cs",
+      "notifiedAt": "2025-11-04T15:24:03.531Z",
+      "contentHash": "707291906ff239234239366c3eaa2deb2e62b0208f813ce499984604a7ccad4b",
+      "fileSize": 23881
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomAnimalSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomAnimalSpawns.cs",
+      "notifiedAt": "2025-11-04T15:24:05.526Z",
+      "contentHash": "c3aa2f3638a5182d09ef58957d3c32d5aeb915a6e28c53fb0ad4471d2fc8c3b6",
+      "fileSize": 24335
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomSpawnPoints.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CustomSpawnPoints.cs",
+      "notifiedAt": "2025-11-04T15:24:07.865Z",
+      "contentHash": "f11763209d0d22360cfe047a61a89f97fd9251502217b08f354d68798d1500be",
+      "fileSize": 5111
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/FreezeArrows.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/FreezeArrows.cs",
+      "notifiedAt": "2025-11-04T15:24:09.803Z",
+      "contentHash": "3d4d64e1785078ad7c3c093b79031f93cc521de4e28133a233d87a1c0dcd867c",
+      "fileSize": 13060
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/FriendlyFire.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/FriendlyFire.cs",
+      "notifiedAt": "2025-11-04T15:24:12.915Z",
+      "contentHash": "a1060dbea4fdd48dca6cc53d73c3756eb0cd8da6e74af294e898312445115071",
+      "fileSize": 13629
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/IGather.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/IGather.cs",
+      "notifiedAt": "2025-11-04T15:24:14.117Z",
+      "contentHash": "4d610cd2be600da35de044927593ee8888a842679a593b1e480e144d29f1e99e",
+      "fileSize": 42241
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/NoDecay.cs",
+      "notifiedAt": "2025-11-04T15:24:15.638Z",
+      "contentHash": "03a525f5596900e57089cd5832d9d285aae2c95fd40e5dbf7d9008a4504f8b31",
+      "fileSize": 12805
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/UsableToBelt.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/UsableToBelt.cs",
+      "notifiedAt": "2025-11-04T15:24:17.571Z",
+      "contentHash": "0be03a30e4fa17cabe7cad71b01c73e8ad32e4118b9df5b52dbf075bc33aa9a4",
+      "fileSize": 1735
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPBackup.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPBackup.cs",
+      "notifiedAt": "2025-11-04T15:24:19.697Z",
+      "contentHash": "0a5332f2cbde73c234c4b17f3279ece50135a6f127b8a5d0f4a2961370b887f3",
+      "fileSize": 9083
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPManager.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPManager.cs",
+      "notifiedAt": "2025-11-04T15:24:21.527Z",
+      "contentHash": "1a3914705c6c694dce555e56fbe54d6c1bfb35a3d6340107203eebf5c279763f",
+      "fileSize": 15364
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPSync.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/XPSync.cs",
+      "notifiedAt": "2025-11-04T15:24:23.778Z",
+      "contentHash": "77be771bf7ca793f8c944c8acf76af01b654d358a60db91a71aa59c5f282d44e",
+      "fileSize": 3463
+    },
+    "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Rust/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Rust/Kits.cs",
+      "notifiedAt": "2025-11-04T15:24:25.763Z",
+      "contentHash": "3f1885601b80c66a2f76c986a30965a4073647a624067c536959b519f39ae072",
+      "fileSize": 45262
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/AirdropRandomizer.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/AirdropRandomizer.cs",
+      "notifiedAt": "2025-11-04T15:24:27.563Z",
+      "contentHash": "3a2c983282a6b6525e57976fc149e38072d113a87796cb7b02603cd9f1968dba",
+      "fileSize": 2143
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/LustyPort.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/LustyPort.cs",
+      "notifiedAt": "2025-11-04T15:24:29.714Z",
+      "contentHash": "751251793f6a6d3140cb248507cf585c805cf09b6cd1194ad54f3487b7f749b5",
+      "fileSize": 18644
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SSNNotifier.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SSNNotifier.cs",
+      "notifiedAt": "2025-11-04T15:24:31.507Z",
+      "contentHash": "a93a47432fbdb353feccfa92118a08cf2029b53b2c432eefabda2ae9abf04bcb",
+      "fileSize": 33229
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/DeathNotes.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/DeathNotes.cs",
+      "notifiedAt": "2025-11-04T15:24:35.106Z",
+      "contentHash": "cdbc841193786b7df26fc09b22d49821ae0b180f2412a8b2dd4ea9ca167a0f3b",
+      "fileSize": 59543
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/Friends.cs",
+      "notifiedAt": "2025-11-04T15:24:35.501Z",
+      "contentHash": "e113901b0b69ae01913d1a0151b68dfc6d78dfc4d46da2dc8e6528b5e1dbb0f5",
+      "fileSize": 14202
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdvZap.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdvZap.cs",
+      "notifiedAt": "2025-11-04T15:24:37.561Z",
+      "contentHash": "019d1a3c51cebf8c32f096b61c2b939b83e46fcedbf4e03ecf9297c5a4ef5e82",
+      "fileSize": 4337
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/VEGive.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/VEGive.cs",
+      "notifiedAt": "2025-11-04T15:24:39.559Z",
+      "contentHash": "d7e692116f8d57c90fc2b2f23135c247f3789064368180df69cd0bf620258edd",
+      "fileSize": 10354
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CashSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/CashSystem.cs",
+      "notifiedAt": "2025-11-04T15:24:41.788Z",
+      "contentHash": "c7c8f3344df2c971762f3aa38a93d82f5c88ef71b1802f6409babe989b4b15a2",
+      "fileSize": 18857
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/DamageController.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/DamageController.cs",
+      "notifiedAt": "2025-11-04T15:24:43.579Z",
+      "contentHash": "39d17e923b2a36d9962aeb7774241aaa13f75b24e3f762a76602f9f2abf2f35d",
+      "fileSize": 3886
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/DonationClaim.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/DonationClaim.cs",
+      "notifiedAt": "2025-11-04T15:24:45.645Z",
+      "contentHash": "e6ae7dafc8d9fdeb2accaf8d68d5a87966797421075f4844b38c0dc96c2fcc86",
+      "fileSize": 5602
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EconomyCore.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EconomyCore.cs",
+      "notifiedAt": "2025-11-04T15:24:47.533Z",
+      "contentHash": "c2ba577cf87cb20b54f7f7954f52b0f036a67de8691e62d102fbed7ff05bcd24",
+      "fileSize": 50238
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EpicLanterns.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/EpicLanterns.cs",
+      "notifiedAt": "2025-11-04T15:24:49.854Z",
+      "contentHash": "b0c33d87a87581c561a045617afc51f17411c730126d8df47e1ee94c844c5f4e",
+      "fileSize": 14538
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HappyHour.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HappyHour.cs",
+      "notifiedAt": "2025-11-04T15:24:51.667Z",
+      "contentHash": "5b28e50747eceb1d7d37f00c9a2b815751bb0bacc3d7a3c2efd02560af208901",
+      "fileSize": 11054
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ID.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ID.cs",
+      "notifiedAt": "2025-11-04T15:24:53.615Z",
+      "contentHash": "d6be9df2e409ded94bc797720c462a148c5cc870a26840d72176430ee018ebe2",
+      "fileSize": 2531
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/InstantResearch.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/InstantResearch.cs",
+      "notifiedAt": "2025-11-04T15:24:55.623Z",
+      "contentHash": "3e11c2bfcc10c2b99b3d13d9c800386a9ba15e0a96da60faac333cb8faa508a9",
+      "fileSize": 738
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PersonalBeacon.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PersonalBeacon.cs",
+      "notifiedAt": "2025-11-04T15:24:57.542Z",
+      "contentHash": "e215e37d289f240b534f06bedba8e4065b0d4eed4f761e211f1db8da6123f667",
+      "fileSize": 11534
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PsyArrows.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PsyArrows.cs",
+      "notifiedAt": "2025-11-04T15:24:59.566Z",
+      "contentHash": "e42aea61a77a31be9369154b9e68e55acb7566ebe50bcd0bf7279cdee95faa60",
+      "fileSize": 12829
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/RewardingCraft.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/RewardingCraft.cs",
+      "notifiedAt": "2025-11-04T15:25:01.543Z",
+      "contentHash": "0a1d9863368051f734ec5c8c98d82585ae19c377e56089d893e559aa8457a0cf",
+      "fileSize": 12888
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ShowHitInfo.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ShowHitInfo.cs",
+      "notifiedAt": "2025-11-04T15:25:06.755Z",
+      "contentHash": "f9684684e0c81d7462bed29c738022539f94ce8ae325bbf80147b8522652b87a",
+      "fileSize": 3616
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SupplySignalAlert.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/SupplySignalAlert.cs",
+      "notifiedAt": "2025-11-04T15:25:07.260Z",
+      "contentHash": "1b05208cacbeac6c9fa49b41abc19a571f532d42e30ba9d673822b3bbd03aa09",
+      "fileSize": 924
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/TearUpBP.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/TearUpBP.cs",
+      "notifiedAt": "2025-11-04T15:25:07.743Z",
+      "contentHash": "feb94f8bf9add51b57752cb9c9d365199bad7941fd276b459ef45702bc0182ee",
+      "fileSize": 11803
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/WakeUp.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/WakeUp.cs",
+      "notifiedAt": "2025-11-04T15:25:09.552Z",
+      "contentHash": "a033285a7434c9dd3c1e59dc093c5dd173e8aa014b57d0149d25c350a150673b",
+      "fileSize": 485
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/Economy.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/Economy.cs",
+      "notifiedAt": "2025-11-04T15:25:11.618Z",
+      "contentHash": "b0fe2f76fee36da30dba2ee59c323c9cbbe951bcdd4d74830301fd3387c6de58",
+      "fileSize": 21855
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/StakeAuthorizer.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/StakeAuthorizer.cs",
+      "notifiedAt": "2025-11-04T15:25:13.468Z",
+      "contentHash": "f5515de6a8cd1e61b113bcd3b9442cfc9d4a98e11439b9546a092fb99463b3f3",
+      "fileSize": 7679
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/VoteChecker.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/VoteChecker.cs",
+      "notifiedAt": "2025-11-04T15:25:15.465Z",
+      "contentHash": "c68c28dcc8c972402de5256aea3e01975cea0df992d81b414bd5068210d2c355",
+      "fileSize": 29159
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/reign of kings/Level.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/reign of kings/Level.cs",
+      "notifiedAt": "2025-11-04T15:25:17.524Z",
+      "contentHash": "06da70301f82badefef1f3942ef25cc37e18165b4cfa637e810d5f6fd27d328a",
+      "fileSize": 28180
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/AntiAdminAbuse.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/AntiAdminAbuse.cs",
+      "notifiedAt": "2025-11-04T15:25:19.526Z",
+      "contentHash": "ace9c14e0a2f61fd8720d891e2ec1ce3c003bb832ad158f8210d849df06e5686",
+      "fileSize": 6961
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ChatGuard.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ChatGuard.cs",
+      "notifiedAt": "2025-11-04T15:25:21.468Z",
+      "contentHash": "96304b2e641587cf02511710917e7bd925e981c47ddf4c83d42f577ff9891c44",
+      "fileSize": 6556
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ExplosivesModifier.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/ExplosivesModifier.cs",
+      "notifiedAt": "2025-11-04T15:25:23.628Z",
+      "contentHash": "3dd2def689180a6f171cee63b49caf011794908ee63d37e6d0214c90399389c0",
+      "fileSize": 18089
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HardcoreGUI.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HardcoreGUI.cs",
+      "notifiedAt": "2025-11-04T15:25:27.189Z",
+      "contentHash": "0520492adf1b5dfe3f29e442545a370053af9c3dfe792891c0df6dd7c726c9b3",
+      "fileSize": 3491
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/IndividualDC.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/IndividualDC.cs",
+      "notifiedAt": "2025-11-04T15:25:27.689Z",
+      "contentHash": "9cddc6dd35fbf1ffa207c1dfd8933a7b9317cd5d9a004c7824bd7ab242822c68",
+      "fileSize": 8014
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/MsgPlayersGui.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/MsgPlayersGui.cs",
+      "notifiedAt": "2025-11-04T15:25:29.589Z",
+      "contentHash": "eed3a5ad645c2ec142ccbb5255195a8c4c2446803811ce2c4be822cce0c74957",
+      "fileSize": 5757
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PlayerChatcontrol.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PlayerChatcontrol.cs",
+      "notifiedAt": "2025-11-04T15:25:31.441Z",
+      "contentHash": "bb3ca6c3ac0fc56fb23cec0e0aa0ce1bee70cdb95dbce43505de7c9902b8203d",
+      "fileSize": 4026
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PM.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/PM.cs",
+      "notifiedAt": "2025-11-04T15:25:33.404Z",
+      "contentHash": "acc8bbd15f9ad0a61ce27108fd16fffbf0fd2ae1da1c6f725838d73b62c7c8d0",
+      "fileSize": 2605
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/StartProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/StartProtection.cs",
+      "notifiedAt": "2025-11-04T15:25:35.517Z",
+      "contentHash": "db447e04e605380500f839fbd923741f833ad648fcba27236ab0527110599725",
+      "fileSize": 22527
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/WeatherController.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/WeatherController.cs",
+      "notifiedAt": "2025-11-04T15:25:37.593Z",
+      "contentHash": "f5453a517b1a08bd2267ded75a73839315b81faf93f11ea836cdb2744c7465f2",
+      "fileSize": 10441
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/CountryBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/CountryBlock.cs",
+      "notifiedAt": "2025-11-04T15:25:39.472Z",
+      "contentHash": "504d2ee318326abdeff0d17c54be9d596693fa821659449f265032f4209921b3",
+      "fileSize": 5719
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdminDoor.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdminDoor.cs",
+      "notifiedAt": "2025-11-04T15:25:41.464Z",
+      "contentHash": "0f6a48521dc0003eb790abec856a8d6a7e8760a4f4e8980af0f3092427fced54",
+      "fileSize": 6325
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/DoorShare.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/DoorShare.cs",
+      "notifiedAt": "2025-11-04T15:25:43.460Z",
+      "contentHash": "b001e4975c6251328da13f944bed4f96e41c0e9ad09db749d7f1fba4cec3f391",
+      "fileSize": 1480
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/KickBan.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/KickBan.cs",
+      "notifiedAt": "2025-11-04T15:25:45.473Z",
+      "contentHash": "ef081f3ae5b30b8a5585f048c8357ccdeb85559770fe7df1f40e09a9bda0c84b",
+      "fileSize": 13145
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/GeoIP.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/GeoIP.cs",
+      "notifiedAt": "2025-11-04T15:25:47.391Z",
+      "contentHash": "2edb24e1ee65adf049f8ac4bf6e697590533ff1fb12f5238643829e1ec39bc56",
+      "fileSize": 9833
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HeliInbound.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HeliInbound.cs",
+      "notifiedAt": "2025-11-04T15:25:49.451Z",
+      "contentHash": "598c595c946fe6c91255fa156a568fa3769875e371e64d0ef50b10656e83faa2",
+      "fileSize": 668
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HideAndSeek.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/HideAndSeek.cs",
+      "notifiedAt": "2025-11-04T15:25:51.502Z",
+      "contentHash": "8e58217d184ef30ff5a048870b29c6ac3974aac21bbac15abb098d6ff5972538",
+      "fileSize": 18627
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Hotel.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Hotel.cs",
+      "notifiedAt": "2025-11-04T15:25:53.400Z",
+      "contentHash": "e5e123887d9632394ce3216109f140f91f443f11812732c70b5c3b4dc5dec82b",
+      "fileSize": 67653
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Waypoints.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Waypoints.cs",
+      "notifiedAt": "2025-11-04T15:25:55.507Z",
+      "contentHash": "a82d797411eabd507e5f128cbda91260db245ac761b45bea691682775ce9f591",
+      "fileSize": 9024
+    },
+    "https://raw.githubusercontent.com/ternpixel/plugins/master/EventDead.cs": {
+      "key": "https://raw.githubusercontent.com/ternpixel/plugins/master/EventDead.cs",
+      "notifiedAt": "2025-11-04T15:25:57.502Z",
+      "contentHash": "cfdb57d15b5fde013520ea146a699fe60fbdfff6782ae61163d6e73803903a94",
+      "fileSize": 50231
+    },
+    "https://raw.githubusercontent.com/JonathanPorta/rust-server-cookbook/master/files/oxide/plugins/GatherManager.cs": {
+      "key": "https://raw.githubusercontent.com/JonathanPorta/rust-server-cookbook/master/files/oxide/plugins/GatherManager.cs",
+      "notifiedAt": "2025-11-04T15:25:59.454Z",
+      "contentHash": "7b06464df947d6eee123a93ae70cc977ea4fa229d5522b057f425fc6f23b5396",
+      "fileSize": 27914
+    },
+    "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/AdminAirdrop.cs": {
+      "key": "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/AdminAirdrop.cs",
+      "notifiedAt": "2025-11-04T15:26:01.704Z",
+      "contentHash": "0cfe99ed7f86ef64ebbfe943a27fde240441696891c031cd21dc9e5cd32a39f5",
+      "fileSize": 5516
+    },
+    "https://raw.githubusercontent.com/scorpyon/plugins/master/VoteHelper.cs": {
+      "key": "https://raw.githubusercontent.com/scorpyon/plugins/master/VoteHelper.cs",
+      "notifiedAt": "2025-11-04T15:26:03.543Z",
+      "contentHash": "1886af083b43d3d2f1236157ce5913c34a6f8d54d417026768bee74f0f2ef7f1",
+      "fileSize": 1601
+    },
+    "https://raw.githubusercontent.com/scorpyon/plugins/master/Pwn.cs": {
+      "key": "https://raw.githubusercontent.com/scorpyon/plugins/master/Pwn.cs",
+      "notifiedAt": "2025-11-04T15:26:05.577Z",
+      "contentHash": "566deb872433f23be26d7e820b68b885e411a804cea0397ebda4542bc8bdfa26",
+      "fileSize": 2256
+    },
+    "https://raw.githubusercontent.com/QuetzalQatl/RustPluginManual/master/SnapshotAllPlugins/FamilyShareBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/QuetzalQatl/RustPluginManual/master/SnapshotAllPlugins/FamilyShareBlocker.cs",
+      "notifiedAt": "2025-11-04T15:26:07.637Z",
+      "contentHash": "ca2a545fc48cb6d3740b3e56ca3c91fc9df08dddf7348cd262af8cca6cdd289d",
+      "fileSize": 5318
+    },
+    "https://raw.githubusercontent.com/pedroivorbgrodrigues/hunt/master/FileReader.cs": {
+      "key": "https://raw.githubusercontent.com/pedroivorbgrodrigues/hunt/master/FileReader.cs",
+      "notifiedAt": "2025-11-04T15:26:09.428Z",
+      "contentHash": "0dc72450a0bc0191f4a3523cdf9ea5840b7304a5bde9b09d136c4335a9a41f6d",
+      "fileSize": 5720
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Updater.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Updater.cs",
+      "notifiedAt": "2025-11-04T15:26:11.494Z",
+      "contentHash": "745e4415de3cb6a22621afec27b4deb9d4f2e20896ea249dbf329020007c06ad",
+      "fileSha": "83654c7a11d09b588d098e7eec6a0604948e5cf9",
+      "fileSize": 10101
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/LootConfig.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/LootConfig.cs",
+      "notifiedAt": "2025-11-04T15:26:13.519Z",
+      "contentHash": "6e304613ca9bb7d6b619ad0790a3ff4e855277b24f2c3b093da4afe8893eb472",
+      "fileSha": "68cfcc02e9be34c9be70f8613442ec85778b3d4b",
+      "fileSize": 38700
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/V/Vanish/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/V/Vanish/Vanish.cs",
+      "notifiedAt": "2025-11-04T15:26:15.577Z",
+      "contentHash": "f515f651337a234247e07846c15950c294a5e11670094000ef6de0fac9501f78",
+      "fileSize": 38371
+    },
+    "https://raw.githubusercontent.com/WheteThunger/DroneLights/master/DroneLights.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/DroneLights/master/DroneLights.cs",
+      "notifiedAt": "2025-11-04T15:26:17.518Z",
+      "contentHash": "488c94e0e0c5f8ab86bebc036c7b8d9baa44e60b6afa9fe16c5e009547b81a62",
+      "fileSize": 17922
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/Whitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/Whitelist.cs",
+      "notifiedAt": "2025-11-04T15:26:19.496Z",
+      "contentHash": "8b693785ea0765df68cee411f177f2b1baf8e4e90fcf912ad967c7df98756a58",
+      "fileSha": "c12c6ee518774fb0513de6297e13c3a188347a21",
+      "fileSize": 2507
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/Whitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/Whitelist.cs",
+      "notifiedAt": "2025-11-04T15:26:21.434Z",
+      "contentHash": "8b693785ea0765df68cee411f177f2b1baf8e4e90fcf912ad967c7df98756a58",
+      "fileSha": "c12c6ee518774fb0513de6297e13c3a188347a21",
+      "fileSize": 2507
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Whitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Whitelist.cs",
+      "notifiedAt": "2025-11-04T15:26:23.650Z",
+      "contentHash": "8b693785ea0765df68cee411f177f2b1baf8e4e90fcf912ad967c7df98756a58",
+      "fileSha": "c12c6ee518774fb0513de6297e13c3a188347a21",
+      "fileSize": 2507
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/Whitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/hurtworld/Whitelist.cs",
+      "notifiedAt": "2025-11-04T15:26:25.583Z",
+      "contentHash": "8b693785ea0765df68cee411f177f2b1baf8e4e90fcf912ad967c7df98756a58",
+      "fileSize": 2507
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Purge.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Purge.cs",
+      "notifiedAt": "2025-11-04T15:26:27.409Z",
+      "contentHash": "59fe88fcbf7419a7d745acd9a8771b66ea2e73fe6c41eb5d0c48bedaafeaeebf",
+      "fileSha": "618ee24fb543338d31f675ca88fa4b672721ed80",
+      "fileSize": 2666
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoCraft/NoCraft.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoCraft/NoCraft.cs",
+      "notifiedAt": "2025-11-04T15:26:29.394Z",
+      "contentHash": "15bcc14b956afde1f5dfce8d6a4199d6b885c2afa2e5f36a8b0422016b720bcb",
+      "fileSize": 3654
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Whitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/Whitelist.cs",
+      "notifiedAt": "2025-11-04T15:26:31.490Z",
+      "contentHash": "8b693785ea0765df68cee411f177f2b1baf8e4e90fcf912ad967c7df98756a58",
+      "fileSize": 2507
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemDurability.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemDurability.cs",
+      "notifiedAt": "2025-11-04T15:26:33.535Z",
+      "contentHash": "8d035b644a970ddc510ad6898a175a5561c2f7637a98e8654532ad42f2703256",
+      "fileSha": "c524d848fec14c81299a55ab5640d468b85ed7fb",
+      "fileSize": 7655
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PvpMarkers.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PvpMarkers.cs",
+      "notifiedAt": "2025-11-04T15:26:35.470Z",
+      "contentHash": "558162e079a2f735b64d2cb4a789daeecf82b3c107a0bf84655d002decb195f7",
+      "fileSha": "e208f6c6f0100dedefab6f998de36066a908a442",
+      "fileSize": 7978
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/NoCraft.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/NoCraft.cs",
+      "notifiedAt": "2025-11-04T15:26:37.505Z",
+      "contentHash": "15bcc14b956afde1f5dfce8d6a4199d6b885c2afa2e5f36a8b0422016b720bcb",
+      "fileSize": 3654
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Pets.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Pets.cs",
+      "notifiedAt": "2025-11-04T15:26:39.391Z",
+      "contentHash": "67d17e21a81e5bcf858c0a7cfc608421420fcfab962f1335d9a41fb82907a0d9",
+      "fileSha": "78f3e4a14ba80da1d12ec702459353626dde663e",
+      "fileSize": 24400
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MiningBow.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MiningBow.cs",
+      "notifiedAt": "2025-11-04T15:26:41.714Z",
+      "contentHash": "530d94e67e68cf0fa75a6197b2ba80f12b3d1125e4bc578c68dc1ef1e13e6b64",
+      "fileSha": "df36efc488efd54c73079b48aaefdaf1bab617f5",
+      "fileSize": 7350
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NSave.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NSave.cs",
+      "notifiedAt": "2025-11-04T15:26:43.431Z",
+      "contentHash": "a91f183ae0d4a83682f8379deab60b8b9170c43656389170784b15b6499b8346",
+      "fileSha": "9c719bdbe70eb44d46b0e43da925e2da53a63dda",
+      "fileSize": 1727
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WipeBlock.cs",
+      "notifiedAt": "2025-11-04T15:26:45.427Z",
+      "contentHash": "b8e95f7d92931adc748ae224aca0e36c478f15119b6511edc87c60760950073e",
+      "fileSha": "551b2ac03cf0f2aa7510b9bffc6ea67103a932b3",
+      "fileSize": 32828
+    },
+    "https://raw.githubusercontent.com/publicrust/rustmaps-uploader-telegrambot/main/src/index.ts": {
+      "key": "https://raw.githubusercontent.com/publicrust/rustmaps-uploader-telegrambot/main/src/index.ts",
+      "notifiedAt": "2025-11-04T15:26:47.450Z",
+      "fileSha": "a8fc0b1f3595fa4f74faf82895e3c28925da9c66"
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DropCars.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DropCars.cs",
+      "notifiedAt": "2025-11-04T15:26:49.469Z",
+      "contentHash": "2e441c1f217a74846a44859c2d0ea47d74560f68819ff72b4370960843a90a2b",
+      "fileSha": "da6b4cc91df81687f38e145b6ef2205ac57bb0c7",
+      "fileSize": 12818
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPOnMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPOnMap.cs",
+      "notifiedAt": "2025-11-04T15:26:51.565Z",
+      "contentHash": "2a61b035d796daf1d6f1c064500a84449cdabd8ce866610109a9801457d2ef4f",
+      "fileSize": 2042
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/TPOnMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/TPOnMap.cs",
+      "notifiedAt": "2025-11-04T15:26:53.693Z",
+      "contentHash": "2a61b035d796daf1d6f1c064500a84449cdabd8ce866610109a9801457d2ef4f",
+      "fileSize": 2042
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/TPOnMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/TPOnMap.cs",
+      "notifiedAt": "2025-11-04T15:26:55.433Z",
+      "contentHash": "2a61b035d796daf1d6f1c064500a84449cdabd8ce866610109a9801457d2ef4f",
+      "fileSize": 2042
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminTime.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminTime.cs",
+      "notifiedAt": "2025-11-04T15:26:57.616Z",
+      "contentHash": "f9c1e0b049ce204a654be6751759c39caca2559123a80be4e1a72fc3f08d88df",
+      "fileSize": 4541
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/GoldCard.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/GoldCard.cs",
+      "notifiedAt": "2025-11-04T15:26:59.682Z",
+      "contentHash": "c22bf48595611349e40d474983dd3d31c191f1c3ba6784fe4509e03d1b945fae",
+      "fileSize": 4720
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/FreeRT.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/FreeRT.cs",
+      "notifiedAt": "2025-11-04T15:27:01.423Z",
+      "contentHash": "5787e3324a6f2cb92e71478c12d270d90c89befc8382006ceb29fda08ff360f5",
+      "fileSize": 3733
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/TPOnMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/TPOnMap.cs",
+      "notifiedAt": "2025-11-04T15:27:03.471Z",
+      "contentHash": "2a61b035d796daf1d6f1c064500a84449cdabd8ce866610109a9801457d2ef4f",
+      "fileSize": 2042
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RaidingZombies.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RaidingZombies.cs",
+      "notifiedAt": "2025-11-04T15:27:05.460Z",
+      "contentHash": "c85471086499152cda9e764874fd24ee8ba92106635ffafd4cb96ad0de0b4096",
+      "fileSha": "51c78e971d672e37335829a587de6ec9120d09d3",
+      "fileSize": 30687
+    },
+    "https://raw.githubusercontent.com/WheteThunger/PowerlessElectronics/master/PowerlessElectronics.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/PowerlessElectronics/master/PowerlessElectronics.cs",
+      "notifiedAt": "2025-11-04T15:27:07.453Z",
+      "contentHash": "f2d3a2d960e1597303c6c5ada1f838260b8ea7b239f71aaee37b1e4e51b757aa",
+      "fileSize": 19733
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Notifier.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Notifier.cs",
+      "notifiedAt": "2025-11-04T15:27:09.475Z",
+      "contentHash": "eecfdd9f5cd542479e62c9ecbf7a05d3609f944fae103d3144907ffb946db175",
+      "fileSha": "d93a94c3430bb104f0cd1740fd522e51f6c4c986",
+      "fileSize": 38922
+    },
+    "https://raw.githubusercontent.com/WheteThunger/ElevatorCounters/master/ElevatorCounters.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/ElevatorCounters/master/ElevatorCounters.cs",
+      "notifiedAt": "2025-11-04T15:27:11.406Z",
+      "contentHash": "231c81deed11db43bb6fcd20d2d1580cc0a2c33128e7d17c58d61e526a2e1ee6",
+      "fileSize": 13845
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/hurtworld/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/hurtworld/Teleportation.cs",
+      "notifiedAt": "2025-11-04T15:27:13.537Z",
+      "contentHash": "9b50416d92094e48fa42c2718c856b1a7dc400b790f9ad25f55697a5be60b9e5",
+      "fileSize": 37325
+    },
+    "https://raw.githubusercontent.com/WheteThunger/MiniCopterOptions/master/MiniCopterOptions.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/MiniCopterOptions/master/MiniCopterOptions.cs",
+      "notifiedAt": "2025-11-04T15:27:15.394Z",
+      "contentHash": "058655e08737fad5f9750fca1bdc9a047e9abd6c2a4984dfa96aec2e73b99345",
+      "fileSize": 37095
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/TargetPractice.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/TargetPractice.cs",
+      "notifiedAt": "2025-11-04T15:27:17.399Z",
+      "contentHash": "9cd09fca0174f26d3e14208911d307fec96a2010054f4ce33de2065fd5bb11f8",
+      "fileSha": "fed11ae5c0fbf485b9fe1371c3d92ab23bd612a9",
+      "fileSize": 22640
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/VoteChecker.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/VoteChecker.cs",
+      "notifiedAt": "2025-11-04T15:27:19.630Z",
+      "contentHash": "3933ab73dd9d2cbd5b35a19b3976d899c705c2d3cb8f42ca9ee9e410a62f6cc2",
+      "fileSha": "773664dcf34d493de6a53154b4e808e697c14965",
+      "fileSize": 26958
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/WantedForMurder.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/WantedForMurder.cs",
+      "notifiedAt": "2025-11-04T15:27:21.463Z",
+      "contentHash": "000158d77f1f11c1b201cb09670c024157d7cd9622ed72375e93fcca29367612",
+      "fileSha": "9d53f9a1146215c7645c9a83ffe21a374b03e96f",
+      "fileSize": 16611
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AirdropControl.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AirdropControl.cs",
+      "notifiedAt": "2025-11-04T15:27:23.390Z",
+      "contentHash": "1ad9b7d3bd1d56237758d0aaf975d8bbb7e9291a1fe8e7c0bcb1f7597472e860",
+      "fileSha": "b93afc6e9d384bc4246fadedc3d20563275bdf4a",
+      "fileSize": 15947
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/bbr.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/bbr.cs",
+      "notifiedAt": "2025-11-04T15:27:25.475Z",
+      "contentHash": "74b9ea3748b4a3b8f1a89b2d2fe1ea4cb35e0d3b8f60ae8a0e8a809c77135e69",
+      "fileSha": "6d0f1ba049a431adc14c68af73bbd750a21d2814",
+      "fileSize": 19535
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RadShrinkZone.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RadShrinkZone.cs",
+      "notifiedAt": "2025-11-04T15:27:27.468Z",
+      "contentHash": "d7bba41d527d6aced82d4d33e8b554beaa7d7794065f8b805cc36666e85c0f25",
+      "fileSha": "adcaca9804d72c7ecaff68a148634ffa9d1d64a5",
+      "fileSize": 13460
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AdminPanel.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AdminPanel.cs",
+      "notifiedAt": "2025-11-04T15:27:29.531Z",
+      "contentHash": "4ce7af9daff01978303f4d4878eb287f783046daa44a5e0cefebf073f31e0527",
+      "fileSha": "b206147493c8ba1a56b1ae2ae76844e0024edd3d",
+      "fileSize": 16321
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ProximityAlert.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ProximityAlert.cs",
+      "notifiedAt": "2025-11-04T15:27:31.647Z",
+      "contentHash": "0b030c8746ed161088528cd410f9bb74636dba247662f51eb8ed4e78be4b3bc9",
+      "fileSha": "d5165c3f859121916a28f5c340f05753001245c9",
+      "fileSize": 11778
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Finder.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Finder.cs",
+      "notifiedAt": "2025-11-04T15:27:33.420Z",
+      "contentHash": "fc69473e4ad95cfbefe306df081715033ec71f3fce3516f0fbf70f1fa442bdc6",
+      "fileSha": "9582f4a0b72837751ccf6249041019118d778128",
+      "fileSize": 17597
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/SteamChecks.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/SteamChecks.cs",
+      "notifiedAt": "2025-11-04T15:27:35.425Z",
+      "contentHash": "a85283cd92931228be29d0523ac8000a9e6570ef31804186c699f10925a7f83a",
+      "fileSha": "e0088424071b5634c072f507a362ffa3b288fee7",
+      "fileSize": 22641
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/Give.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/Give.cs",
+      "notifiedAt": "2025-11-04T15:27:37.631Z",
+      "contentHash": "70edd3b392835954a9ddc758020aebf8afe308a8669bd3d30738d38d347f1d7c",
+      "fileSha": "b80ee00c1bf49321a274aaa1a6966c902c3edd5b",
+      "fileSize": 3337
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LustyPort.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LustyPort.cs",
+      "notifiedAt": "2025-11-04T15:27:39.526Z",
+      "contentHash": "751251793f6a6d3140cb248507cf585c805cf09b6cd1194ad54f3487b7f749b5",
+      "fileSha": "f451c67f16751c79125bcec7d25659ed8cb3d70e",
+      "fileSize": 18644
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ShowCrosshair.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ShowCrosshair.cs",
+      "notifiedAt": "2025-11-04T15:27:41.548Z",
+      "contentHash": "c67ef5ec757a0f3ad6a4963abd1f6908765793eb6fc7ccc18f530627f45def7d",
+      "fileSha": "cbb25d31de2288564dfe17796ea70ec9da49f614",
+      "fileSize": 49891
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RepairTool.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RepairTool.cs",
+      "notifiedAt": "2025-11-04T15:27:43.414Z",
+      "contentHash": "c7f02fffdede92e9acef2a7273bd3530dec1995f04bcd06b922805efb47103fe",
+      "fileSha": "ea19c71f4c5af2445f8776458d17e99eb941c9d4",
+      "fileSize": 13584
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Airstrike.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Airstrike.cs",
+      "notifiedAt": "2025-11-04T15:27:45.408Z",
+      "contentHash": "998f47c7537c61285ab76c706851305e765a4776af00fb43a255af24c2496b82",
+      "fileSha": "a3d02fea1d6750fa9a123f48a08a3480fb9a3c39",
+      "fileSize": 44346
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PrivateZones.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PrivateZones.cs",
+      "notifiedAt": "2025-11-04T15:27:47.561Z",
+      "contentHash": "7e06fb1c4f2b96811453562b8943bec172826d2fcd8826cb98457230150a71db",
+      "fileSha": "f0b6ead1383a657032e8032590d8841bf0f9c815",
+      "fileSize": 9514
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/VisualCupboard.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/VisualCupboard.cs",
+      "notifiedAt": "2025-11-04T15:27:49.608Z",
+      "contentHash": "10cdfe438d394304dd410a696d48e4136893f44ecb5553b6ccf87479518fc14e",
+      "fileSha": "eae08227847ea7ff5da17a7407917dd23a16dbe0",
+      "fileSize": 8688
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PumpkinBombs.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PumpkinBombs.cs",
+      "notifiedAt": "2025-11-04T15:27:51.425Z",
+      "contentHash": "bdf117c54d6539db1aa3fcca3bd95d2693009744bbbfc9fbc60a708276182b10",
+      "fileSha": "8588ed529cdc63af483215316a6b0a6e9cbfed74",
+      "fileSize": 9107
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Logger.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Logger.cs",
+      "notifiedAt": "2025-11-04T15:27:53.690Z",
+      "contentHash": "8db43335b6167b343f0210cfaacfc7ccafce7f0aa8c3e2bd18d7f9d9b7debb91",
+      "fileSha": "9fb71cc9966e17d14a2939a0f1db028e38b52f62",
+      "fileSize": 6858
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/HelpText.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/HelpText.cs",
+      "notifiedAt": "2025-11-04T15:27:55.397Z",
+      "contentHash": "0e1c62147018ddd6deb33fc03529518cbfc6bb2f718bc307fcffcf1b7c23380d",
+      "fileSha": "c2c24eed438dd02e71a032647dd347b0b97df1a6",
+      "fileSize": 6696
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/TrollTax.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/TrollTax.cs",
+      "notifiedAt": "2025-11-04T15:27:57.472Z",
+      "contentHash": "f1e11c939f2ccbc0cb1c79ed7d5cedbaa808b89a6bd6af50b9bacb827af65560",
+      "fileSha": "6e1c8127fa309d2e4127be677230ce36bc9cd6df",
+      "fileSize": 21419
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/NeverWear.cs",
+      "notifiedAt": "2025-11-04T15:27:59.375Z",
+      "contentHash": "857c4938273470ec430acd635a783870fa99caadd54b2a237dcecf4c0ea74e5b",
+      "fileSha": "d7c3533efcee9a55ed708ec04a1961f02107f012",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/NeverWear.cs",
+      "notifiedAt": "2025-11-04T15:28:01.394Z",
+      "contentHash": "857c4938273470ec430acd635a783870fa99caadd54b2a237dcecf4c0ea74e5b",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/NeverWear.cs",
+      "notifiedAt": "2025-11-04T15:28:03.457Z",
+      "contentHash": "857c4938273470ec430acd635a783870fa99caadd54b2a237dcecf4c0ea74e5b",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/NeverWear.cs",
+      "notifiedAt": "2025-11-04T15:28:05.475Z",
+      "contentHash": "857c4938273470ec430acd635a783870fa99caadd54b2a237dcecf4c0ea74e5b",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DeathKick.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DeathKick.cs",
+      "notifiedAt": "2025-11-04T15:28:07.463Z",
+      "contentHash": "b301fea3f2bae0b0e46728db9c1a35651ae9d852643a6cd0c05709a35a43b9e3",
+      "fileSha": "5803ad4ac5319f202cf1a3d91832ac0fa89e72af",
+      "fileSize": 7792
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/NukeWipe.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/NukeWipe.cs",
+      "notifiedAt": "2025-11-04T15:28:09.515Z",
+      "contentHash": "37a6b3ddc3cdf3941c2f34fe8daddff810685554cdb65283554665b63d2c9813",
+      "fileSha": "f6e77ac2b48c47ad8b204d3852815803c91da563",
+      "fileSize": 10648
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AutoDoors.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AutoDoors.cs",
+      "notifiedAt": "2025-11-04T15:28:11.624Z",
+      "contentHash": "46d700155aaf1abcdf90c83a6f6fe5427c1cdffef3c0c6f937411869ade0f63e",
+      "fileSha": "bd390e32cbb6a046af2921c65ed71d410c3d8f11",
+      "fileSize": 3996
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Portals.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Portals.cs",
+      "notifiedAt": "2025-11-04T15:28:13.495Z",
+      "contentHash": "396f2b5bed8d65a4c502e6d0dcfa35c7f54820f12c433fda8b04f9f165cbef09",
+      "fileSha": "c7f020e85c32d56a66634eb8f9ca2cbeb08ed059",
+      "fileSize": 17349
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/NeverWear.cs",
+      "notifiedAt": "2025-11-04T15:28:15.513Z",
+      "contentHash": "857c4938273470ec430acd635a783870fa99caadd54b2a237dcecf4c0ea74e5b",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/WheteThunger/VehicleDecayProtection/master/VehicleDecayProtection.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/VehicleDecayProtection/master/VehicleDecayProtection.cs",
+      "notifiedAt": "2025-11-04T15:28:17.557Z",
+      "contentHash": "c25f713605aac932d06ba5861298a7a756a3b5c44f42525ddba3b487070a9a7b",
+      "fileSize": 58012
+    },
+    "https://raw.githubusercontent.com/WheteThunger/CarTurrets/master/CarTurrets.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/CarTurrets/master/CarTurrets.cs",
+      "notifiedAt": "2025-11-04T15:28:19.794Z",
+      "contentHash": "45e35151da8ed54ac7bf599b6190351946729a326e22232935d66628b4e5e1f2",
+      "fileSize": 58333
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Kits.cs",
+      "notifiedAt": "2025-11-04T15:28:21.540Z",
+      "contentHash": "80163c0680dc437b3b0014acd9f4a85c2d9ae2f2f02a501cf5c2d28e73fc3c1a",
+      "fileSize": 33751
+    },
+    "https://raw.githubusercontent.com/Ghenghis/Auto-Base-Builder/main/scripts/RUST-Plugins/Reforestation.cs": {
+      "key": "https://raw.githubusercontent.com/Ghenghis/Auto-Base-Builder/main/scripts/RUST-Plugins/Reforestation.cs",
+      "notifiedAt": "2025-11-04T15:28:23.448Z",
+      "contentHash": "27132710db61df827bf0771287a83b14ed41e85427d4c5ceb68a6fe90b47e1ee",
+      "fileSize": 30425
+    },
+    "https://raw.githubusercontent.com/Ghenghis/RUST-TEST/main/Reforestation.cs": {
+      "key": "https://raw.githubusercontent.com/Ghenghis/RUST-TEST/main/Reforestation.cs",
+      "notifiedAt": "2025-11-04T15:28:25.524Z",
+      "contentHash": "27132710db61df827bf0771287a83b14ed41e85427d4c5ceb68a6fe90b47e1ee",
+      "fileSize": 30425
+    },
+    "https://raw.githubusercontent.com/Ghenghis/Rust-AI-Base-Builder2/main/RUST-Plugins/Reforestation.cs": {
+      "key": "https://raw.githubusercontent.com/Ghenghis/Rust-AI-Base-Builder2/main/RUST-Plugins/Reforestation.cs",
+      "notifiedAt": "2025-11-04T15:28:27.453Z",
+      "contentHash": "27132710db61df827bf0771287a83b14ed41e85427d4c5ceb68a6fe90b47e1ee",
+      "fileSize": 30425
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPSkillSystem (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPSkillSystem (1).cs",
+      "notifiedAt": "2025-11-04T15:28:29.467Z",
+      "contentHash": "e22ace275637adb3d793c394706514b3eb939b7c6d04962759efcc798e07ce15",
+      "fileSha": "b3088c0388d3394232c265eb469a8e6ac99f4682",
+      "fileSize": 57985
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RemoteTurrets.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RemoteTurrets.cs",
+      "notifiedAt": "2025-11-04T15:28:31.573Z",
+      "contentHash": "b58b16f3f0852563774cdf00d4b4aa0cfa86b749fd68045a91716983a36a97fc",
+      "fileSha": "bfd8b8b227b874eadcac06b3402a4b5f1d3c3182",
+      "fileSize": 58490
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirfieldEvent (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirfieldEvent (1).cs",
+      "notifiedAt": "2025-11-04T15:28:33.392Z",
+      "contentHash": "479cd732e984a3c7a00ac6893086cd00460be1b15abb8cd0e894fe5689b2631c",
+      "fileSha": "e1cc02356c901f10d110a772cceaa23f4b176914",
+      "fileSize": 62033
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/LimitRCON.cs",
+      "notifiedAt": "2025-11-04T15:28:35.400Z",
+      "contentHash": "12394a79422abcf1707fdb1a5e022935d274d57b26ccca47e7ae512582ca19d9",
+      "fileSha": "b9701c44aac2d63f4818b590357d23376c985bbc",
+      "fileSize": 1435
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/universal/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/universal/LimitRCON.cs",
+      "notifiedAt": "2025-11-04T15:28:37.462Z",
+      "contentHash": "12394a79422abcf1707fdb1a5e022935d274d57b26ccca47e7ae512582ca19d9",
+      "fileSize": 1435
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/universal/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/universal/LimitRCON.cs",
+      "notifiedAt": "2025-11-04T15:28:39.575Z",
+      "contentHash": "12394a79422abcf1707fdb1a5e022935d274d57b26ccca47e7ae512582ca19d9",
+      "fileSize": 1435
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/universal/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/universal/LimitRCON.cs",
+      "notifiedAt": "2025-11-04T15:28:41.453Z",
+      "contentHash": "12394a79422abcf1707fdb1a5e022935d274d57b26ccca47e7ae512582ca19d9",
+      "fileSize": 1435
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Bank.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Bank.cs",
+      "notifiedAt": "2025-11-04T15:28:44.934Z",
+      "contentHash": "1d3f33b663b7ad8db75b3f6cb1ef2714e39b124c2c31877ebd1a92844425854c",
+      "fileSha": "b0a2fb394d9b28a9015f02a3a16c58afdba76102",
+      "fileSize": 38771
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AutoPurge.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AutoPurge.cs",
+      "notifiedAt": "2025-11-04T15:28:46.133Z",
+      "contentHash": "0980a00c31c3ae77ce6ccc5084f8f5d7f34060b7aab67c4ef71344ee7b83ae22",
+      "fileSha": "a72ffd3e8869c9a5e63c5e4f109145eb4386dff4",
+      "fileSize": 16476
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RandomWarps.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/RandomWarps.cs",
+      "notifiedAt": "2025-11-04T15:28:47.419Z",
+      "contentHash": "60cd7b4cbd94647edede3622ec0cfd0ec9140c56b1759cae79557bade6ded950",
+      "fileSha": "e805297eced61f183d8872696d9abdf91b35a403",
+      "fileSize": 10408
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LastName.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LastName.cs",
+      "notifiedAt": "2025-11-04T15:28:49.508Z",
+      "contentHash": "dd1b28258fc04224283e6cea8b58cd16612513c84d81d6985f15c46d9c395cab",
+      "fileSha": "743ce52a89f5ddd2a3b2483f7e3ae8fb4bc7148a",
+      "fileSize": 6946
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/EntityLimit.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/EntityLimit.cs",
+      "notifiedAt": "2025-11-04T15:28:51.602Z",
+      "contentHash": "690dd9441568ada9cd548e1fcc6b134060aa974652ea6a7eb99730e537c32ebc",
+      "fileSha": "9897ff1d941cba90474e8bf7f624b8091939c14b",
+      "fileSize": 9123
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/SleeperAnimalProtection.cs",
+      "notifiedAt": "2025-11-04T15:28:53.652Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSha": "b02c0fd8329f92090787c31535e5f765d28e1e5a",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/SleeperAnimalProtection.cs",
+      "notifiedAt": "2025-11-04T15:28:55.496Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/SleeperAnimalProtection.cs",
+      "notifiedAt": "2025-11-04T15:28:57.428Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/SleeperAnimalProtection.cs",
+      "notifiedAt": "2025-11-04T15:28:59.508Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/Updater.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/Updater.cs",
+      "notifiedAt": "2025-11-04T15:29:01.432Z",
+      "contentHash": "699e126ee52d3bcbb41123bd3ffb4d358fc4fdd50914cda5f80b4fbc4465c4a8",
+      "fileSha": "eab3dd6742b4f95003e32b70ce1502568a86aac5",
+      "fileSize": 10456
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DeathSigns.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DeathSigns.cs",
+      "notifiedAt": "2025-11-04T15:29:03.546Z",
+      "contentHash": "11baa8e1b5b9c9860a530913568135a9ca271ce5ba076d6b4957d7782d81a010",
+      "fileSha": "5fcf8bbec5093a73563efb82460a4b4127b9efdd",
+      "fileSize": 8117
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ConnectionDB.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ConnectionDB.cs",
+      "notifiedAt": "2025-11-04T15:29:06.327Z",
+      "contentHash": "c0220a82beccf8e4cf9efeca2cfa47bbf9b3d4c33ce5d385ebab41e87b75df0f",
+      "fileSha": "b65a982a70caa45e33cec677460fce067dcbc2ed",
+      "fileSize": 13325
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/InfiniteAmmo.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/InfiniteAmmo.cs",
+      "notifiedAt": "2025-11-04T15:29:07.605Z",
+      "contentHash": "02feba1729c86c6af870e1e35b0daf960d7e5f2691ae6ea1b5c2c04825108d91",
+      "fileSha": "aebe9fc0abb86e307275e3fdfcbce2d9004e4dd8",
+      "fileSize": 7316
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/InfiniteAmmo.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/InfiniteAmmo.cs",
+      "notifiedAt": "2025-11-04T15:29:09.459Z",
+      "contentHash": "02feba1729c86c6af870e1e35b0daf960d7e5f2691ae6ea1b5c2c04825108d91",
+      "fileSize": 7316
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/InfiniteAmmo.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/InfiniteAmmo.cs",
+      "notifiedAt": "2025-11-04T15:29:11.506Z",
+      "contentHash": "02feba1729c86c6af870e1e35b0daf960d7e5f2691ae6ea1b5c2c04825108d91",
+      "fileSize": 7316
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/InfiniteAmmo.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/InfiniteAmmo.cs",
+      "notifiedAt": "2025-11-04T15:29:13.431Z",
+      "contentHash": "02feba1729c86c6af870e1e35b0daf960d7e5f2691ae6ea1b5c2c04825108d91",
+      "fileSize": 7316
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CleanUp.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CleanUp.cs",
+      "notifiedAt": "2025-11-04T15:29:15.497Z",
+      "contentHash": "b8d35f3e831ccdc7aaf5e28bc95d700e8bf4c59fdf2f69ab633a4365fa873ace",
+      "fileSha": "95b83b32496aeb2ac90117ca0b7bd67798b27cae",
+      "fileSize": 16172
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Godmode.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Godmode.cs",
+      "notifiedAt": "2025-11-04T15:29:17.528Z",
+      "contentHash": "e7e9c9a4c4feb39ad32454861a1520315db6976031eae0a0591391a3ed73d655",
+      "fileSha": "82c756827a5d2599a94f3c64eb34953ad7ddd41c",
+      "fileSize": 15673
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LimeBench.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/LimeBench.cs",
+      "notifiedAt": "2025-11-04T15:29:19.501Z",
+      "contentHash": "3ff293ec6cb15c8bb2cf8cfc9b483c3b7c9bc84d8560ba15d7cb13bccdc7e3af",
+      "fileSha": "7f7b802ff3406fe2f73f4748789cafe8a220a5bc",
+      "fileSize": 12034
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/GeoIP.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/GeoIP.cs",
+      "notifiedAt": "2025-11-04T15:29:21.480Z",
+      "contentHash": "5c0b2019ee6b76b1483743712529f2c0cdfc438b0878b66337af4325a4585f87",
+      "fileSha": "e6d753cbe0c8927e75ed23d829afe73eb52edada",
+      "fileSize": 9839
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ConsoleMessages.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ConsoleMessages.cs",
+      "notifiedAt": "2025-11-04T15:29:23.505Z",
+      "contentHash": "e97d98dc0ec99d0747ea486433afb8c976733c74122737192a426d7a4847de6e",
+      "fileSha": "e600f5a2228b628adfdbdec0c0d060b8ef13af36",
+      "fileSize": 8103
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/ConsoleMessages.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/ConsoleMessages.cs",
+      "notifiedAt": "2025-11-04T15:29:25.479Z",
+      "contentHash": "e97d98dc0ec99d0747ea486433afb8c976733c74122737192a426d7a4847de6e",
+      "fileSize": 8103
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/ConsoleMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/ConsoleMessages.cs",
+      "notifiedAt": "2025-11-04T15:29:27.445Z",
+      "contentHash": "e97d98dc0ec99d0747ea486433afb8c976733c74122737192a426d7a4847de6e",
+      "fileSize": 8103
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/ConsoleMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/ConsoleMessages.cs",
+      "notifiedAt": "2025-11-04T15:29:29.453Z",
+      "contentHash": "e97d98dc0ec99d0747ea486433afb8c976733c74122737192a426d7a4847de6e",
+      "fileSize": 8103
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Notice.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/Notice.cs",
+      "notifiedAt": "2025-11-04T15:29:31.482Z",
+      "contentHash": "4e4aaf6fd41fdaacd79374f33921da06c04aac4ce3379c862bb4dd53fb4f103d",
+      "fileSha": "c0f9fabc1e7de93fcc0cd04d4b0a18302d594263",
+      "fileSize": 4929
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/HelpText.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/HelpText.cs",
+      "notifiedAt": "2025-11-04T15:29:33.462Z",
+      "contentHash": "23027c1956e6ce720da649d3d150b077a500822bb97b18b034df04067a082ade",
+      "fileSha": "6d0a5b9a1197578c74a384e6cb9b4cb355ecc1eb",
+      "fileSize": 2806
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/universal/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/universal/LimitRCON.cs",
+      "notifiedAt": "2025-11-04T15:29:35.478Z",
+      "contentHash": "12394a79422abcf1707fdb1a5e022935d274d57b26ccca47e7ae512582ca19d9",
+      "fileSize": 1435
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/SleeperAnimalProtection.cs",
+      "notifiedAt": "2025-11-04T15:29:37.399Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/InfiniteAmmo.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/InfiniteAmmo.cs",
+      "notifiedAt": "2025-11-04T15:29:39.662Z",
+      "contentHash": "02feba1729c86c6af870e1e35b0daf960d7e5f2691ae6ea1b5c2c04825108d91",
+      "fileSize": 7316
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/ConsoleMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/ConsoleMessages.cs",
+      "notifiedAt": "2025-11-04T15:29:41.387Z",
+      "contentHash": "e97d98dc0ec99d0747ea486433afb8c976733c74122737192a426d7a4847de6e",
+      "fileSize": 8103
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeavyOilRigEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeavyOilRigEvent.cs",
+      "notifiedAt": "2025-11-04T15:29:44.810Z",
+      "contentHash": "a69c99d4979ed78deaa0df003ab08c7a2a03ae5c657da17b1f0f65a275ad5137",
+      "fileSha": "4ce2b623eecb094f21a29193a35327fccc5130b8",
+      "fileSize": 34025
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/XRestartUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/XRestartUI.cs",
+      "notifiedAt": "2025-11-04T15:29:45.590Z",
+      "contentHash": "c2b0efe7b67ddac8558d2d81e047ee614b113b31f67a3a306af7304314b36bca",
+      "fileSize": 12896
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XRestartUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XRestartUI.cs",
+      "notifiedAt": "2025-11-04T15:29:47.430Z",
+      "contentHash": "c2b0efe7b67ddac8558d2d81e047ee614b113b31f67a3a306af7304314b36bca",
+      "fileSize": 12896
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/XRestartUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/XRestartUI.cs",
+      "notifiedAt": "2025-11-04T15:29:49.411Z",
+      "contentHash": "c2b0efe7b67ddac8558d2d81e047ee614b113b31f67a3a306af7304314b36bca",
+      "fileSize": 12896
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GUIShop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GUIShop.cs",
+      "notifiedAt": "2025-11-04T15:29:51.506Z",
+      "contentHash": "7509f526624c18514275a7d1f91c302aeab3c5fe84138ef96d317d1a78795397",
+      "fileSize": 46804
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Notifier.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Notifier.cs",
+      "notifiedAt": "2025-11-04T15:29:53.485Z",
+      "contentHash": "eecfdd9f5cd542479e62c9ecbf7a05d3609f944fae103d3144907ffb946db175",
+      "fileSha": "d93a94c3430bb104f0cd1740fd522e51f6c4c986",
+      "fileSize": 38922
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RadPockets.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RadPockets.cs",
+      "notifiedAt": "2025-11-04T15:29:55.475Z",
+      "contentHash": "04ae2be0b4b4c1c9520fe0f0b23f8a1a5b81809003e67d881976adf14d0f2938",
+      "fileSha": "76bc8319e1f4ecda50b02bfc4b8256d4ef14c42a",
+      "fileSize": 17828
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/WipeSchedule.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/WipeSchedule.cs",
+      "notifiedAt": "2025-11-04T15:29:57.541Z",
+      "contentHash": "fd57e4ed5f9827580b35f83ddb06719d2d11697738bed7f2a1893e90db608d96",
+      "fileSize": 23490
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Cases.cs",
+      "notifiedAt": "2025-11-04T15:29:59.462Z",
+      "contentHash": "c6ef442dfce3ddccb67a13bcfc16392476bba2330d838559bd9b4b242963f75d",
+      "fileSize": 35032
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Cases.cs",
+      "notifiedAt": "2025-11-04T15:30:01.778Z",
+      "contentHash": "c6ef442dfce3ddccb67a13bcfc16392476bba2330d838559bd9b4b242963f75d",
+      "fileSize": 35032
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Prod.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Prod.cs",
+      "notifiedAt": "2025-11-04T15:30:05.465Z",
+      "contentHash": "b642b782c2e36374289c292d0ed0908b968581c2ad88309aae7ebc7611ce75f8",
+      "fileSha": "8aacf7761429ebe74c2ff13e5dca7ddb64ea13d9",
+      "fileSize": 14455
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/XCraft.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/XCraft.cs",
+      "notifiedAt": "2025-11-04T15:30:05.784Z",
+      "contentHash": "a0c1b1664a73f188ac189d89515754dad438d3a16c57273e31d96a0bb940742d",
+      "fileSize": 35294
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/NeonSkins.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/NeonSkins.cs",
+      "notifiedAt": "2025-11-04T15:30:07.684Z",
+      "contentHash": "8c0605050565d21438d90eff43a3b9d8756600e424eb2fa06cc740b52323583e",
+      "fileSize": 46118
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StripesEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StripesEvent.cs",
+      "notifiedAt": "2025-11-04T15:30:09.554Z",
+      "contentHash": "7e75ca59192c6694a54f3a9d574f13d5510c4cdc588e7bf2935826e76647cada",
+      "fileSha": "c5e6a553fccb31199e960eb3a61a3007773f4e39",
+      "fileSize": 41019
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Necronomicon.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Necronomicon.cs",
+      "notifiedAt": "2025-11-04T15:30:11.440Z",
+      "contentHash": "3863114e3620b3cb4f579f4414fe8a72f7dc4aee2bbc98c3a60517bda992b8bb",
+      "fileSha": "cb4ab59e839a441030b42884fd8b7d89517b8b67",
+      "fileSize": 37117
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/QuarryLevels.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/QuarryLevels.cs",
+      "notifiedAt": "2025-11-04T15:30:13.579Z",
+      "contentHash": "ee9c4ab2223d5315180ac3c242ea366ec4f4427e674d11dab974f7fc44350020",
+      "fileSha": "b3b2769c4884d2048dd78f557a80861159fd632f",
+      "fileSize": 31340
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Kits (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Kits (1).cs",
+      "notifiedAt": "2025-11-04T15:30:15.772Z",
+      "contentHash": "4e0bd795fe3fb2a2d8aa9b27a661e05b5ba92011412f104876d52c9c8a1839ce",
+      "fileSha": "db13dd82d68434259e67a0fa9725bed58dd379f0",
+      "fileSize": 44834
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WipeSchedule.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WipeSchedule.cs",
+      "notifiedAt": "2025-11-04T15:30:17.423Z",
+      "contentHash": "fd57e4ed5f9827580b35f83ddb06719d2d11697738bed7f2a1893e90db608d96",
+      "fileSha": "b055d24f5c61c518da4639b49c138d180355f92a",
+      "fileSize": 23490
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases (1).cs",
+      "notifiedAt": "2025-11-04T15:30:19.573Z",
+      "contentHash": "c6ef442dfce3ddccb67a13bcfc16392476bba2330d838559bd9b4b242963f75d",
+      "fileSha": "b59f313ef49f8d26c19b4c69171922ab726c9421",
+      "fileSize": 35032
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DailyReward.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DailyReward.cs",
+      "notifiedAt": "2025-11-04T15:30:21.598Z",
+      "contentHash": "f02ba076e9aa8c96cc5b978751a1344f99f062936621c0a925bcacc2ec26224a",
+      "fileSha": "800b6bc374cdfe6daea244c6622c7d049b0250e1",
+      "fileSize": 24960
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WelcomeHelp.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WelcomeHelp.cs",
+      "notifiedAt": "2025-11-04T15:30:23.496Z",
+      "contentHash": "6f146222799baeda49c4c005e83032e73ae56af763114dfab22a490fae47c97b",
+      "fileSha": "b7e19668956344237f16a28f7315e279211affb3",
+      "fileSize": 21957
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/Picklock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/Picklock.cs",
+      "notifiedAt": "2025-11-04T15:30:25.485Z",
+      "contentHash": "4a5f8058b6c018e1324779e3760643026b37e6597fa0ce4cb88a2c63e80430f4",
+      "fileSha": "ad91fa07bc568ae2f6c9ee26a4270e8e65cb958f",
+      "fileSize": 17596
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Vanish v1.6.8/Vanish-1.6.8.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Vanish v1.6.8/Vanish-1.6.8.cs",
+      "notifiedAt": "2025-11-04T15:30:27.465Z",
+      "contentHash": "229c07a2cf1bf30b3be55c1e7ae2f87c945dcfd193ceb07dd6832d0421e4f034",
+      "fileSize": 25768
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/HungerGames.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/HungerGames.cs",
+      "notifiedAt": "2025-11-04T15:30:29.461Z",
+      "contentHash": "51078ce887d68f7a22cf7bcf4fc72ec089f739fc1580146a2a61167960672699",
+      "fileSha": "bb635c781a089723393f446695c964fec0cd5185",
+      "fileSize": 83775
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RadialMenu (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RadialMenu (1).cs",
+      "notifiedAt": "2025-11-04T15:30:31.566Z",
+      "contentHash": "81d9b876f8194b136af02dd7bceffa328f8c48596c1051a5ac71f44d9174ff75",
+      "fileSha": "b8c2377afb9d0cd64980dcf7e462e52cb1e9e67b",
+      "fileSize": 65961
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MinimalistHud.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MinimalistHud.cs",
+      "notifiedAt": "2025-11-04T15:30:33.569Z",
+      "contentHash": "b45dde449fa0724b6b6d1bd2d446fe957146edbc0b7c286de6b2cadb95e963f9",
+      "fileSha": "ebb010b4be1899f2c33890e0073c0a3350844c03",
+      "fileSize": 58599
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Statistics (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Statistics (1).cs",
+      "notifiedAt": "2025-11-04T15:30:35.522Z",
+      "contentHash": "f778831e12655c7ad4499ef86da47c3bd4e916598b64622901af455aec1784a4",
+      "fileSha": "cf204523f93ee016497b38e293d69651abdb8c0f",
+      "fileSize": 63504
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BanSystem.cs",
+      "notifiedAt": "2025-11-04T15:30:37.605Z",
+      "contentHash": "b3f7f349b465a8c30040ffcb1a7554c0628a03468fa069e1184ad610c0dfae88",
+      "fileSha": "abd2ff5b5c0285fa3e2244c434f99ce83e92c3fc",
+      "fileSize": 63458
+    },
+    "https://raw.githubusercontent.com/QWERTY-Seba/rust_plugins/main/ItemCombiner.cs": {
+      "key": "https://raw.githubusercontent.com/QWERTY-Seba/rust_plugins/main/ItemCombiner.cs",
+      "notifiedAt": "2025-11-04T15:30:39.468Z",
+      "contentHash": "45262fec3155fbeeb952f3d332423bf7931a969604557742c285b005cdf79d05",
+      "fileSize": 4831
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EventManagerNotifier.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EventManagerNotifier.cs",
+      "notifiedAt": "2025-11-04T15:30:41.474Z",
+      "contentHash": "806ce3de6499131f7544e80c38b654b6a26a8df61d4c359cababa544745ba368",
+      "fileSha": "8697a5f5280c5b0a48f42597c1364460aed0d39f",
+      "fileSize": 4101
+    },
+    "https://raw.githubusercontent.com/abolfazl3133/leaked_new_rust_plugins_AI_Dumped/main/AutoHeals.cs": {
+      "key": "https://raw.githubusercontent.com/abolfazl3133/leaked_new_rust_plugins_AI_Dumped/main/AutoHeals.cs",
+      "notifiedAt": "2025-11-04T15:30:44.906Z",
+      "contentHash": "c8571a9e95c0d2492839d94cb8ef14ed1c01bab1824be2557e15e094da8065ec",
+      "fileSize": 3838
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoTeams/NoTeams.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoTeams/NoTeams.cs",
+      "notifiedAt": "2025-11-04T15:30:45.655Z",
+      "contentHash": "cacd1241da7d7e4c193fc946653c959e3364524f016c78136f51b51086c37d16",
+      "fileSize": 2406
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/MagicTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/MagicTeleportation.cs",
+      "notifiedAt": "2025-11-04T15:30:47.503Z",
+      "contentHash": "f200da046bc83f37214590a5c30e9a2131181cdbe33bd740725a12718b6bd1c7",
+      "fileSha": "f57f0ad2dbfb134eb418bb69e86e0f66f922f021",
+      "fileSize": 63813
+    },
+    "https://raw.githubusercontent.com/VisEntities/MapMarkerTeleport/master/MapMarkerTeleport.cs": {
+      "key": "https://raw.githubusercontent.com/VisEntities/MapMarkerTeleport/master/MapMarkerTeleport.cs",
+      "notifiedAt": "2025-11-04T15:30:49.515Z",
+      "contentHash": "1b6b67f4352800dadcc63b243c19660ec984d9b1225b7ae42669c2ee6cc344eb",
+      "fileSize": 5290
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/GatherConfig.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/GatherConfig.cs",
+      "notifiedAt": "2025-11-04T15:30:51.524Z",
+      "contentHash": "e49345d5537328213610295d159befa199ebbfa975ecf1c667b6334b70081651",
+      "fileSha": "d3d1ea7cd1667042d5d1eaa8800be04eba06f6cd",
+      "fileSize": 7632
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/MinimumPlaytime.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/MinimumPlaytime.cs",
+      "notifiedAt": "2025-11-04T15:30:53.566Z",
+      "contentHash": "e00963eb1a9e12288cead8f236ee793f5e9431c6cfef7b79d6bea30b753e4ce3",
+      "fileSha": "7e4bce967eeee1713dae82269da5422a1eed9c20",
+      "fileSize": 6544
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Promocodes.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Promocodes.cs",
+      "notifiedAt": "2025-11-04T15:30:55.509Z",
+      "contentHash": "c4ecc0f925881136994b94d27511bfbaa5a3e3bfe30acfdd13c15104026abc85",
+      "fileSha": "a45f3c8015aa114ab49a780bf798046a50d2a83b",
+      "fileSize": 7708
+    },
+    "https://raw.githubusercontent.com/bubbafett5611/Backpacks/master/Backpacks.cs": {
+      "key": "https://raw.githubusercontent.com/bubbafett5611/Backpacks/master/Backpacks.cs",
+      "notifiedAt": "2025-11-04T15:30:57.675Z",
+      "contentHash": "9e7db8e7112fc4d70fabfe1ee3c43ad35bee2f04b0c6261e3c6576f8732383e1",
+      "fileSize": 361270
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/F15AirStrike.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/F15AirStrike.cs",
+      "notifiedAt": "2025-11-04T15:30:59.631Z",
+      "contentHash": "1a098a2cdd5d30ff0f0420b077c069018c312a7df0f40cdba4da23222909abb1",
+      "fileSha": "5bb24a4516dd891c19474b6f898a5d1ef6edd688",
+      "fileSize": 15489
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Fishing.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Fishing.cs",
+      "notifiedAt": "2025-11-04T15:31:01.556Z",
+      "contentHash": "59904291f55ac3844fc7f34f137ee8aa0a4402ecfce2cc8b52642e6b23e5dc39",
+      "fileSha": "eff76234c67adb355cc576d042e06446d161a7ea",
+      "fileSize": 12788
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RemoveAAA.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RemoveAAA.cs",
+      "notifiedAt": "2025-11-04T15:31:03.438Z",
+      "contentHash": "0ca23b174d80172afb205e24af5604487d28dd86fbe5cd43062b7421f9674986",
+      "fileSha": "7edd0023c62c96add0f72861824a4549eaa0cbb9",
+      "fileSize": 27294
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/NukeWipe.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/NukeWipe.cs",
+      "notifiedAt": "2025-11-04T15:31:05.503Z",
+      "contentHash": "37a6b3ddc3cdf3941c2f34fe8daddff810685554cdb65283554665b63d2c9813",
+      "fileSha": "f6e77ac2b48c47ad8b204d3852815803c91da563",
+      "fileSize": 10648
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/KDRGui.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/KDRGui.cs",
+      "notifiedAt": "2025-11-04T15:31:07.584Z",
+      "contentHash": "45299fdacccee115fa410413f8f55ee5df7c118f9bb4453bcc49c5bfd899d953",
+      "fileSha": "a09f11f52e6bdc58d79ddd7743ca8d81529b7beb",
+      "fileSize": 18274
+    },
+    "https://raw.githubusercontent.com/abolfazl3133/leaked_new_rust_plugins_AI_Dumped/main/QuarryLevels.cs": {
+      "key": "https://raw.githubusercontent.com/abolfazl3133/leaked_new_rust_plugins_AI_Dumped/main/QuarryLevels.cs",
+      "notifiedAt": "2025-11-04T15:31:09.509Z",
+      "contentHash": "86838f1ba1638629272f9c75d10d75356a74ca5f62196139e4d734d25c6df0bf",
+      "fileSize": 31649
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/KDRGui.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust/KDRGui.cs",
+      "notifiedAt": "2025-11-04T15:31:11.502Z",
+      "contentHash": "45299fdacccee115fa410413f8f55ee5df7c118f9bb4453bcc49c5bfd899d953",
+      "fileSize": 18274
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/VoteDay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/VoteDay.cs",
+      "notifiedAt": "2025-11-04T15:31:13.397Z",
+      "contentHash": "eba980fe4909c81703f2733f1367cf0cb39b5b4369f2f4cbc0b3a9c083f1645f",
+      "fileSize": 14303
+    },
+    "https://raw.githubusercontent.com/WheteThunger/SortButton/master/SortButton.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/SortButton/master/SortButton.cs",
+      "notifiedAt": "2025-11-04T15:31:15.417Z",
+      "contentHash": "1bcdcdd977abde3a815db18215ee97b6554de8f46b6409a41f37a0ec0959d931",
+      "fileSize": 41355
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/WhoTalks.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/WhoTalks.cs",
+      "notifiedAt": "2025-11-04T15:31:17.475Z",
+      "contentHash": "1049b1c1c3c9c85023b9821ee9c5d05c23dcbae6d3cf26ede838769a1ec38652",
+      "fileSha": "54d2c5e1dacc95c1d2ab54e2eac589e176c7382d",
+      "fileSize": 828
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/IPBlacklist.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/IPBlacklist.cs",
+      "notifiedAt": "2025-11-04T15:31:19.417Z",
+      "contentHash": "a2e842b49349cc7ab97ffdfe8c6e9da2ba2f82c592e94f200f1bdfbd234c8180",
+      "fileSha": "4541b13fd66266339fa9364a92931cabf9f2338f",
+      "fileSize": 830
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/Stacksize.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/Stacksize.cs",
+      "notifiedAt": "2025-11-04T15:31:21.406Z",
+      "contentHash": "feca561491e3cb7797ca2da39fbad2ee4e6938377e6ff74e174663f4a755ead2",
+      "fileSha": "5b37476245ef0eaa9d5a3aeeca6aad330bbc8604",
+      "fileSize": 9360
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/CountryBlock.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/CountryBlock.cs",
+      "notifiedAt": "2025-11-04T15:31:23.526Z",
+      "contentHash": "e90578b409b2dd45c9627bff54d673a4952792c5e4c01ee198cfbb0b2b46efea",
+      "fileSha": "419baa2f83d007b9a1828b6929a0d523e4b9a37f",
+      "fileSize": 5900
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ItemSkinRandomizer.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/ItemSkinRandomizer.cs",
+      "notifiedAt": "2025-11-04T15:31:25.458Z",
+      "contentHash": "a458efdececff54e2ab00ee0b16b59ad7d32c509919697da3f50bbafc92dde51",
+      "fileSha": "57a339e812b231ce8de2efb719e5b6a45acf9c21",
+      "fileSize": 1787
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DevblogAnnouncer.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DevblogAnnouncer.cs",
+      "notifiedAt": "2025-11-04T15:31:27.415Z",
+      "contentHash": "b3fe02cc04fad0bc71fa236fdfd1a9d5861015998f933e0c747d6bad89a5dcdb",
+      "fileSha": "5548514828527e0f5f16cd8b9cf8dc6f6f00d728",
+      "fileSize": 5033
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DMBuildings.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DMBuildings.cs",
+      "notifiedAt": "2025-11-04T15:31:29.454Z",
+      "contentHash": "13af6af1ecbdf3231c6f6609e26a55afee170cfe9cc115194ce7e06b7b473c25",
+      "fileSha": "4a72a8bd669ab3558adce4fd8de15cfd3bb7b074",
+      "fileSize": 2215
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/ConnectMessages.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/ConnectMessages.cs",
+      "notifiedAt": "2025-11-04T15:31:31.471Z",
+      "contentHash": "aa2f411c68366cf2338af7b8e209a038e37ee25a79326407d4b242ccc3910c85",
+      "fileSha": "3e396235396681c87d7584dff3632504ab8a4edf",
+      "fileSize": 3488
+    },
+    "https://raw.githubusercontent.com/WheteThunger/AutomatedWorkcarts/master/AutomatedWorkcarts.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/AutomatedWorkcarts/master/AutomatedWorkcarts.cs",
+      "notifiedAt": "2025-11-04T15:31:34.306Z",
+      "contentHash": "63f5d4b33f6855d2ab81223c1fe95217324bd6c95918b2490798948e45f9cdf0",
+      "fileSize": 268463
+    },
+    "https://raw.githubusercontent.com/rustcommunity/OxidePlugins/master/Rust/EasyVoteResetVotes.cs": {
+      "key": "https://raw.githubusercontent.com/rustcommunity/OxidePlugins/master/Rust/EasyVoteResetVotes.cs",
+      "notifiedAt": "2025-11-04T15:31:35.468Z",
+      "contentHash": "4e256269f20a8915a58efa21b2864f7a20615cc379aa80a07a410bafada18a3c",
+      "fileSize": 2065
+    },
+    "https://raw.githubusercontent.com/ThePitereq/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/ThePitereq/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs",
+      "notifiedAt": "2025-11-04T15:31:37.410Z",
+      "contentHash": "b06b1f7218a3a5d78d92ad17b310fd033e168a48b0f61db2afb2bb4e579e5872",
+      "fileSize": 6358
+    },
+    "https://raw.githubusercontent.com/rustafied/Oxide/develop/Games/Unity/Oxide.Game.FromTheDepths/FromTheDepthsPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/rustafied/Oxide/develop/Games/Unity/Oxide.Game.FromTheDepths/FromTheDepthsPlugin.cs",
+      "notifiedAt": "2025-11-04T15:31:39.509Z",
+      "contentHash": "85ed8412b0be1bfee2a648554fca8c6385bbf61be113ce86232ba9cb1e979d5b",
+      "fileSize": 104
+    },
+    "https://raw.githubusercontent.com/rustafied/Oxide/develop/Games/Other/Oxide.Game.Terraria/TerrariaPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/rustafied/Oxide/develop/Games/Other/Oxide.Game.Terraria/TerrariaPlugin.cs",
+      "notifiedAt": "2025-11-04T15:31:41.421Z",
+      "contentHash": "c31c4f999bd83e2eaa4cc91eb85e6d93d84122be9ffd4befd638a188e70835e1",
+      "fileSize": 99
+    },
+    "https://raw.githubusercontent.com/Tryhard999/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs": {
+      "key": "https://raw.githubusercontent.com/Tryhard999/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs",
+      "notifiedAt": "2025-11-04T15:31:43.734Z",
+      "contentHash": "4e733fdfdb35ceb7c7519407343eeeec6867a6a8f5fae4007e4297060f6ff3b9",
+      "fileSha": "bdf06049a1a6dab3a811422a91ceb92fcdfa3521",
+      "fileSize": 9669
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Ru/plugin/MonumentOwner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Ru/plugin/MonumentOwner.cs",
+      "notifiedAt": "2025-11-04T15:31:45.439Z",
+      "contentHash": "81f4a5a496ff1882aa0859a271e2cde228cd523616efd0838099e76b789bb772",
+      "fileSha": "ed931cfe56a41480c179a929f7ccdf2701f93eee",
+      "fileSize": 153877
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare.cs",
+      "notifiedAt": "2025-11-04T15:31:47.449Z",
+      "contentHash": "a240da6cc43897af738331dd4c53f9ee3d3ff03c482a4493bb6e61bdf80b741e",
+      "fileSha": "ffc640b21b42bedfbf20b9b0217c4a3b700286d7",
+      "fileSize": 123869
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/CopyPaste.cs",
+      "notifiedAt": "2025-11-04T15:31:49.490Z",
+      "contentHash": "4c77608eca13f49791b78dad817a5ea00393b3eb12a7a78e2132a7bb74ad6cba",
+      "fileSha": "e7be94b755920f99c79a819139386d3b73a02183",
+      "fileSize": 131946
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/EasyGather.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/EasyGather.cs",
+      "notifiedAt": "2025-11-04T15:31:51.532Z",
+      "contentHash": "3eb0e6021bee3f1667165079cb965dfec2f6eb44f3f461356201d6c9ef6f97fd",
+      "fileSha": "f1a47eb17eafbb5e4fc26261d409f5a31ef81995",
+      "fileSize": 165541
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ExtraEvents.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ExtraEvents.cs",
+      "notifiedAt": "2025-11-04T15:31:53.563Z",
+      "contentHash": "9fed4cdeafa5c6d74157c9953dd8e349072571104beabaae2d2e23cdfccd4914",
+      "fileSha": "f467b9e9674e68fcf94e98c41709872bcecebe9f",
+      "fileSize": 110961
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (1) (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (1) (1).cs",
+      "notifiedAt": "2025-11-04T15:31:55.788Z",
+      "contentHash": "bdf0ca0d962d08ab32d9211dbc8531dba52d8aad56d10c1d60a6dc351657c28e",
+      "fileSha": "f4174905ebb7ca0ed7bba2774302d5dec5e11ab5",
+      "fileSize": 146872
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordServerPanel/DiscordServerPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordServerPanel/DiscordServerPanel.cs",
+      "notifiedAt": "2025-11-04T15:31:57.556Z",
+      "contentHash": "57d189374d4bf4087e4242a040133a9b7cb4ae8b5cd527ec12f383b348899c80",
+      "fileSha": "daae7a4e5723a0018cd7f6249c64f54487e4107c",
+      "fileSize": 116052
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildTools (3).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildTools (3).cs",
+      "notifiedAt": "2025-11-04T15:31:59.529Z",
+      "contentHash": "2ff23b4e5daf03f2a52324d5ab2e2937661ec5437be298db6d4e8bd08ffe64f8",
+      "fileSha": "d7454aa39b5dcad12704bea962331b1cfcc21d0a",
+      "fileSize": 117650
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaUI.cs",
+      "notifiedAt": "2025-11-04T15:32:01.854Z",
+      "contentHash": "c67543ffc8f01cc212757ef8b0af5f43196f7c9090f1c80e0d41e9270e83db20",
+      "fileSha": "d2188ecfe669f76ae79495aeff4c3466f1f058f2",
+      "fileSize": 133428
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaUI.cs",
+      "notifiedAt": "2025-11-04T15:32:03.474Z",
+      "contentHash": "c67543ffc8f01cc212757ef8b0af5f43196f7c9090f1c80e0d41e9270e83db20",
+      "fileSha": "d2188ecfe669f76ae79495aeff4c3466f1f058f2",
+      "fileSize": 133428
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordServerPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordServerPanel.cs",
+      "notifiedAt": "2025-11-04T15:32:05.389Z",
+      "contentHash": "57d189374d4bf4087e4242a040133a9b7cb4ae8b5cd527ec12f383b348899c80",
+      "fileSha": "daae7a4e5723a0018cd7f6249c64f54487e4107c",
+      "fileSize": 116052
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/SatDishEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/SatDishEvent.cs",
+      "notifiedAt": "2025-11-04T15:32:07.467Z",
+      "contentHash": "9f091b404f664b73da790dec4b4856c9fa780218cdbe1fcba771a6fbd590ac00",
+      "fileSha": "cbbe29201426a0e29d5c57c3b2effb78aa6e8588",
+      "fileSize": 191995
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildTools (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildTools (1).cs",
+      "notifiedAt": "2025-11-04T15:32:09.474Z",
+      "contentHash": "2ff23b4e5daf03f2a52324d5ab2e2937661ec5437be298db6d4e8bd08ffe64f8",
+      "fileSha": "d7454aa39b5dcad12704bea962331b1cfcc21d0a",
+      "fileSize": 117650
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPTeleportation.cs",
+      "notifiedAt": "2025-11-04T15:32:11.438Z",
+      "contentHash": "17c849ce306d8136d27c8df333c971a23f18f6cf61e83cf6963bf23cef081763",
+      "fileSha": "c5426f339dd11939e40a9a624eb5b77f448482e9",
+      "fileSize": 114037
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament (1).cs",
+      "notifiedAt": "2025-11-04T15:32:13.487Z",
+      "contentHash": "5ab6bb16b1f21d4ffc74e966501d73d0172720c1f31b4d076badd83f1ac026c7",
+      "fileSha": "c91a2c4bcb3b9c4a6f824c94a15579fd2679aa5c",
+      "fileSize": 152817
     }
   },
   "version": 1,
-  "updatedAt": "2025-11-04T15:09:10.996Z"
+  "updatedAt": "2025-11-04T15:32:13.487Z"
 }
