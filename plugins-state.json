@@ -37860,8 +37860,1976 @@
       "notifiedAt": "2025-11-05T09:26:43.925Z",
       "contentHash": "6e69db2f4430df0767e301f6d4175851ab0cb10730205824ebf467e7f979d6bc",
       "fileSize": 195153
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/XSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/XSkinMenu.cs",
+      "notifiedAt": "2025-11-05T09:41:53.124Z",
+      "contentHash": "f62e4daee458f0f115d59285ca2485a62ffbf97c7ed89015e1fbab013acddb93",
+      "fileSize": 55545
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/PirateGold.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/PirateGold.cs",
+      "notifiedAt": "2025-11-05T09:41:53.542Z",
+      "contentHash": "c8e14be35380a95f386fb9fd0fce8a6e004bc14c8cdc97c0dd100b3336b04f3d",
+      "fileSize": 61862
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/BossMonster.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/BossMonster.cs",
+      "notifiedAt": "2025-11-05T09:41:53.824Z",
+      "contentHash": "fdf0e1b08645863c873885a695024f85360e1113b194645fc60b59e39dbbeea6",
+      "fileSize": 90173
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/BetterNpc.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/BetterNpc.cs",
+      "notifiedAt": "2025-11-05T09:41:54.109Z",
+      "contentHash": "f703b4dcfa7f4aaf26b523d25145c54d2e12273bfd612c5cb03971a384597bc3",
+      "fileSize": 124113
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:41:54.520Z",
+      "contentHash": "32d531e2df56118312da02b32a193fafb47e424670eefff17f75d08878a72c08",
+      "fileSize": 83441
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/NoEscape.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/NoEscape.cs",
+      "notifiedAt": "2025-11-05T09:41:54.894Z",
+      "contentHash": "35b3d671235bbb62ac289dbea078f493e26b38efc16ec242a0c0981ee1fe4f4b",
+      "fileSize": 50464
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Payback-1.9.7.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Payback-1.9.7.cs",
+      "notifiedAt": "2025-11-05T09:41:55.203Z",
+      "contentHash": "198e9d709a1cc20b7f81635d63b1a2e2558fbf98e8b16905f1ca6cfe43cbe0b7",
+      "fileSize": 162803
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/AAlertRaid.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/AAlertRaid.cs",
+      "notifiedAt": "2025-11-05T09:41:55.533Z",
+      "contentHash": "0be3c9ddaf5fb3c4837c966da886faf4e458f76605cab0f951e1d48393ad7b13",
+      "fileSize": 63891
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/IQChat.cs",
+      "notifiedAt": "2025-11-05T09:41:56.045Z",
+      "contentHash": "afe0d651abcd3441503ee5a14ab5b727b7de2cf491a795dca54dc2ade1bc1b6a",
+      "fileSize": 298849
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaidZone-0.1.52.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaidZone-0.1.52.cs",
+      "notifiedAt": "2025-11-05T09:41:56.339Z",
+      "contentHash": "f58e4f49ff7bbef2c84f27bf790075c5eb592e5bcc1e0b7a428b27e060b12a33",
+      "fileSize": 66222
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/IQChat.cs",
+      "notifiedAt": "2025-11-05T09:41:56.760Z",
+      "contentHash": "a13f37b9ee0fe590fe62842d9155573ede29a97c116390fcf05a6a4e304ccf07",
+      "fileSize": 298862
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/StatisticsRu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/StatisticsRu.cs",
+      "notifiedAt": "2025-11-05T09:41:57.123Z",
+      "contentHash": "74129b057d8e79e359547f662d8bad83577a223fddc2fe5623e081a4119fdc6d",
+      "fileSize": 60740
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/NoEscape.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/NoEscape.cs",
+      "notifiedAt": "2025-11-05T09:41:57.627Z",
+      "contentHash": "c4c73b838b54c713daf15f5e571c2365eb8538e998cf2fea8f756cd49f2ce7b6",
+      "fileSize": 62664
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Remove.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Remove.cs",
+      "notifiedAt": "2025-11-05T09:41:58.006Z",
+      "contentHash": "0cd7d641c4a63230491a7d1b169c3eba08c4098bdac63ffe2fde23a2dbca6896",
+      "fileSize": 74035
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDStatistics-2.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDStatistics-2.0.0.cs",
+      "notifiedAt": "2025-11-05T09:41:58.439Z",
+      "contentHash": "74524e829c76568f6ee2658e5fd10c38a177c10f95a5ff44d870c01bff178cc8",
+      "fileSize": 90182
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/BotReSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/BotReSpawn.cs",
+      "notifiedAt": "2025-11-05T09:41:59.047Z",
+      "contentHash": "235c9966667e8dc8f8ecdf0ed12abee1881dbc49ffd1a5f2171326582119bbd4",
+      "fileSize": 239100
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQWipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQWipeBlock.cs",
+      "notifiedAt": "2025-11-05T09:41:59.510Z",
+      "contentHash": "f8bfcafa4674218eee021add15cc8464a475065de6b9ea416a980c5dbb742acf",
+      "fileSize": 87041
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:41:59.778Z",
+      "contentHash": "63e2b4bb93ff64c7b846c312da9e01c7d8e7e774d81bef67fe013d256699809e",
+      "fileSize": 52518
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ExtendedCrafting-0.3.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ExtendedCrafting-0.3.5.cs",
+      "notifiedAt": "2025-11-05T09:42:00.089Z",
+      "contentHash": "01c0c09266e5861716da21cbbb5929c7d21a36c2c527d6fc5ee91622945679fc",
+      "fileSize": 336316
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/Backpacks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/Backpacks.cs",
+      "notifiedAt": "2025-11-05T09:42:00.480Z",
+      "contentHash": "906460418575204b9c2794b8a895e036dc0ab103542f04780b48348dce588002",
+      "fileSize": 71769
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:42:01.033Z",
+      "contentHash": "d6ec759fa2d0830d7e7ddcaa56d6347e1476dc54a2bc4d2bfd7418b4c064ff38",
+      "fileSize": 95768
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/BuildTools.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/BuildTools.cs",
+      "notifiedAt": "2025-11-05T09:42:01.610Z",
+      "contentHash": "deae19f627ac704dda5449c4b6cd769bf9631ae28ec889a409e4e4e97018ccb5",
+      "fileSize": 57729
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:42:02.530Z",
+      "contentHash": "9b997be95874b696166469ab59d9bc534f7a71714533bc7d827b5979f289d11e",
+      "fileSize": 107082
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/RustMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/RustMap.cs",
+      "notifiedAt": "2025-11-05T09:42:02.993Z",
+      "contentHash": "a2b0d39fdcb7b90ed256ae2d9ab0d82b0a838936a8aec078db41a587bb4f32e6",
+      "fileSize": 103145
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/Clans.cs",
+      "notifiedAt": "2025-11-05T09:42:03.336Z",
+      "contentHash": "4f8fe438e26e2cb570872e07ac81672a8821dfbc4f1a3dc9adc0b541ab670eb9",
+      "fileSize": 331312
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/MonumentFinder.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/MonumentFinder.cs",
+      "notifiedAt": "2025-11-05T09:42:03.719Z",
+      "contentHash": "f672017ac3aca75f8e2a1eceaef0af4129e94a772891a16b4d3a30bdd0875c33",
+      "fileSize": 61381
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/IQKits-1.1.9.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/IQKits-1.1.9.cs",
+      "notifiedAt": "2025-11-05T09:42:04.005Z",
+      "contentHash": "9bb744b3c05c7b1ea0a1562892e94a1aaef40a30d74cd7091d082b84406c9961",
+      "fileSize": 115027
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:42:04.311Z",
+      "contentHash": "5feec37a131c5842abdd6312a92dc8543e60a85ed86d8b5f4f7f814d28f51b9c",
+      "fileSize": 63903
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/Crafts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/Crafts.cs",
+      "notifiedAt": "2025-11-05T09:42:04.864Z",
+      "contentHash": "f7bae278c6d04358a5f770a9e2616b1f1cee7d400830b8e0d7f8f8c24ac73d70",
+      "fileSize": 84099
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:42:05.226Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/MercuryUtilites.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/MercuryUtilites.cs",
+      "notifiedAt": "2025-11-05T09:42:05.736Z",
+      "contentHash": "1304f7c8f0b10e05ae448ccf7b6be0695a2aecf46eefa858b7a0eeda3a6b1c49",
+      "fileSize": 231773
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:42:06.124Z",
+      "contentHash": "f08448295166677576da29e89345e2da4c71ea3e4e61e1e1dfbdc2b8af599ba8",
+      "fileSize": 68030
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XSkinMenu-1.0.13.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XSkinMenu-1.0.13.cs",
+      "notifiedAt": "2025-11-05T09:42:06.650Z",
+      "contentHash": "923fe9598a7778593667a633a8b26be79894775b6b56bf492e2bad975bbbb416",
+      "fileSize": 69875
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:42:06.992Z",
+      "contentHash": "3bf0efdb52fd09f76fdff433ea3fbbc9eddcf4dc4b375e69c7ab55663b828462",
+      "fileSize": 87165
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/CopyPaste.cs",
+      "notifiedAt": "2025-11-05T09:42:07.292Z",
+      "contentHash": "b57a3a4ca389087a90b53dd21ccaf2f77abbc923520de122b76b242eb374983f",
+      "fileSize": 128400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/CopyPaste.cs",
+      "notifiedAt": "2025-11-05T09:42:07.632Z",
+      "contentHash": "b57a3a4ca389087a90b53dd21ccaf2f77abbc923520de122b76b242eb374983f",
+      "fileSize": 128400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/CopyPaste.cs",
+      "notifiedAt": "2025-11-05T09:42:08.016Z",
+      "contentHash": "b57a3a4ca389087a90b53dd21ccaf2f77abbc923520de122b76b242eb374983f",
+      "fileSize": 128400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/CopyPaste.cs",
+      "notifiedAt": "2025-11-05T09:42:09.272Z",
+      "contentHash": "b57a3a4ca389087a90b53dd21ccaf2f77abbc923520de122b76b242eb374983f",
+      "fileSize": 128400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:42:11.155Z",
+      "contentHash": "9c27a8c5264cb18aaf7dd191790b9fcdfc1825018d7986e028c759002af3d334",
+      "fileSize": 65803
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/BanSystem.cs",
+      "notifiedAt": "2025-11-05T09:42:13.182Z",
+      "contentHash": "b3e5b3181ad598b1f407f2e00aa624680bffb360837326532dc55aca00358e67",
+      "fileSize": 63414
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/BanSystem.cs",
+      "notifiedAt": "2025-11-05T09:42:15.240Z",
+      "contentHash": "b3e5b3181ad598b1f407f2e00aa624680bffb360837326532dc55aca00358e67",
+      "fileSize": 63414
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/BanSystem.cs",
+      "notifiedAt": "2025-11-05T09:42:17.127Z",
+      "contentHash": "b3e5b3181ad598b1f407f2e00aa624680bffb360837326532dc55aca00358e67",
+      "fileSize": 63414
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:42:19.179Z",
+      "contentHash": "080bd334d8047c4ef0c4a393e2c651c2406d4ab6e8cff1d535ae460ec3eb3c37",
+      "fileSize": 85306
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/ChatPlus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/ChatPlus.cs",
+      "notifiedAt": "2025-11-05T09:42:21.262Z",
+      "contentHash": "85aebbf483ff1b760c2e02d43e14d12d677dffdea9fada0f065526356503bf61",
+      "fileSize": 83639
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:42:23.273Z",
+      "contentHash": "2b8a87591f4820fcd5c1e0d5e8756fb71c1db5e33cc20032bcdead8ec8d1532f",
+      "fileSize": 65982
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:42:25.410Z",
+      "contentHash": "2b8a87591f4820fcd5c1e0d5e8756fb71c1db5e33cc20032bcdead8ec8d1532f",
+      "fileSize": 65982
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/CraftMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/CraftMenu.cs",
+      "notifiedAt": "2025-11-05T09:42:27.145Z",
+      "contentHash": "c7881c603ccbb577c713a4d582d7a78f40345b3798212a648e424ee2cb09ef03",
+      "fileSize": 74065
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/CraftMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/CraftMenu.cs",
+      "notifiedAt": "2025-11-05T09:42:29.204Z",
+      "contentHash": "c7881c603ccbb577c713a4d582d7a78f40345b3798212a648e424ee2cb09ef03",
+      "fileSize": 74065
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/RatesController.cs",
+      "notifiedAt": "2025-11-05T09:42:31.301Z",
+      "contentHash": "c1d33ec505bcd211a3dfa67a9b9726a22c0f885375ac37a5d05bb9ea56075192",
+      "fileSize": 103193
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/RatesController.cs",
+      "notifiedAt": "2025-11-05T09:42:33.382Z",
+      "contentHash": "c1d33ec505bcd211a3dfa67a9b9726a22c0f885375ac37a5d05bb9ea56075192",
+      "fileSize": 103193
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/RatesController.cs",
+      "notifiedAt": "2025-11-05T09:42:35.226Z",
+      "contentHash": "c1d33ec505bcd211a3dfa67a9b9726a22c0f885375ac37a5d05bb9ea56075192",
+      "fileSize": 103193
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/RatesController.cs",
+      "notifiedAt": "2025-11-05T09:42:37.203Z",
+      "contentHash": "c1d33ec505bcd211a3dfa67a9b9726a22c0f885375ac37a5d05bb9ea56075192",
+      "fileSize": 103193
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-05T09:42:39.124Z",
+      "contentHash": "1ab5512bfe6a9b45915abfa7082a6c403bc1fcbdd21b089aabdef03937158891",
+      "fileSize": 128756
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/zEcoLootUI-1.1.17.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/zEcoLootUI-1.1.17.cs",
+      "notifiedAt": "2025-11-05T09:42:41.190Z",
+      "contentHash": "1ab5512bfe6a9b45915abfa7082a6c403bc1fcbdd21b089aabdef03937158891",
+      "fileSize": 128756
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-05T09:42:43.321Z",
+      "contentHash": "1ab5512bfe6a9b45915abfa7082a6c403bc1fcbdd21b089aabdef03937158891",
+      "fileSize": 128756
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SecurityCameras-0.2.28.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SecurityCameras-0.2.28.cs",
+      "notifiedAt": "2025-11-05T09:42:45.169Z",
+      "contentHash": "772b8ad3325f100254366154c55779d981df4ad2d6a43f9b071131676defd26f",
+      "fileSize": 56438
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/ShopSystemRevolution.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/ShopSystemRevolution.cs",
+      "notifiedAt": "2025-11-05T09:42:47.281Z",
+      "contentHash": "beb72753d039d6875b18714b0d05329659014e8f2eaa66bf60ca71568c4c9e8d",
+      "fileSize": 89592
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Payback.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Payback.cs",
+      "notifiedAt": "2025-11-05T09:42:49.742Z",
+      "contentHash": "dcb3fc9c779f79b8741e277a204f2e260b68f42c7edf2a00d50014fc5ab8d425",
+      "fileSize": 162802
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Payback.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Payback.cs",
+      "notifiedAt": "2025-11-05T09:42:51.294Z",
+      "contentHash": "dcb3fc9c779f79b8741e277a204f2e260b68f42c7edf2a00d50014fc5ab8d425",
+      "fileSize": 162802
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Payback.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Payback.cs",
+      "notifiedAt": "2025-11-05T09:42:53.136Z",
+      "contentHash": "dcb3fc9c779f79b8741e277a204f2e260b68f42c7edf2a00d50014fc5ab8d425",
+      "fileSize": 162802
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDQuest-2.0.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDQuest-2.0.5.cs",
+      "notifiedAt": "2025-11-05T09:42:55.152Z",
+      "contentHash": "5b37d02ea502f52f9b49fe925c3844849605151e4f0524a3dbe6df8ef9f73396",
+      "fileSize": 129891
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/XSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/XSkinMenu.cs",
+      "notifiedAt": "2025-11-05T09:42:57.138Z",
+      "contentHash": "684dcc8e93ae0037fdab735845b329b595b261dd3c07e833535f57a11571a1a0",
+      "fileSize": 55249
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Rustcord-3.2.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Rustcord-3.2.5.cs",
+      "notifiedAt": "2025-11-05T09:42:59.325Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:43:01.216Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:43:03.362Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:43:05.162Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/RustPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/RustPanel.cs",
+      "notifiedAt": "2025-11-05T09:43:07.166Z",
+      "contentHash": "a89d857e21993d1940f4d2634373daf59eb5681cbb4f6f23caa20ac3a25f835e",
+      "fileSize": 70310
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/RustPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/RustPanel.cs",
+      "notifiedAt": "2025-11-05T09:43:09.276Z",
+      "contentHash": "a89d857e21993d1940f4d2634373daf59eb5681cbb4f6f23caa20ac3a25f835e",
+      "fileSize": 70310
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/QuestSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/QuestSystem.cs",
+      "notifiedAt": "2025-11-05T09:43:11.273Z",
+      "contentHash": "34194cf17dcca49a7b229b5d91ab4dba45224e9d84857db0ea7140020340819e",
+      "fileSize": 91421
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Quests.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Quests.cs",
+      "notifiedAt": "2025-11-05T09:43:13.267Z",
+      "contentHash": "29487799754091b9eb35c7802fa37771f2c77d9c02774e50f6d81ee6f2ed29a7",
+      "fileSize": 69842
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/PreferredEnvironment-2.0.12.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/PreferredEnvironment-2.0.12.cs",
+      "notifiedAt": "2025-11-05T09:43:15.320Z",
+      "contentHash": "08e9b27fcd22b69e6ed9622ce3c0932974934ea8356d439f77b4614f39b7849d",
+      "fileSize": 88740
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:43:17.175Z",
+      "contentHash": "781d8286369dabd66cfcdbe8bb4265648fe82b9ea9de69ed257d5f74eee90214",
+      "fileSize": 83338
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:43:19.630Z",
+      "contentHash": "781d8286369dabd66cfcdbe8bb4265648fe82b9ea9de69ed257d5f74eee90214",
+      "fileSize": 83338
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:43:21.184Z",
+      "contentHash": "781d8286369dabd66cfcdbe8bb4265648fe82b9ea9de69ed257d5f74eee90214",
+      "fileSize": 83338
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:43:23.571Z",
+      "contentHash": "781d8286369dabd66cfcdbe8bb4265648fe82b9ea9de69ed257d5f74eee90214",
+      "fileSize": 83338
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/PermissionsManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/PermissionsManager.cs",
+      "notifiedAt": "2025-11-05T09:43:25.275Z",
+      "contentHash": "4b4bc3bf39efe59a0ff62368401ecdf2bf53ef7a977aa544c629fcd3e5d19ab3",
+      "fileSize": 70755
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/PermissionsManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/PermissionsManager.cs",
+      "notifiedAt": "2025-11-05T09:43:27.129Z",
+      "contentHash": "4b4bc3bf39efe59a0ff62368401ecdf2bf53ef7a977aa544c629fcd3e5d19ab3",
+      "fileSize": 70755
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/PermissionsManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/PermissionsManager.cs",
+      "notifiedAt": "2025-11-05T09:43:29.157Z",
+      "contentHash": "4b4bc3bf39efe59a0ff62368401ecdf2bf53ef7a977aa544c629fcd3e5d19ab3",
+      "fileSize": 70755
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/GameStoresRUST.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/GameStoresRUST.cs",
+      "notifiedAt": "2025-11-05T09:43:31.152Z",
+      "contentHash": "c446d63a494c36b72bc616aff225dd8f11757a26965b48be5d045fc7c59e12ff",
+      "fileSize": 107048
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/GameStoresRUST.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/GameStoresRUST.cs",
+      "notifiedAt": "2025-11-05T09:43:33.143Z",
+      "contentHash": "c446d63a494c36b72bc616aff225dd8f11757a26965b48be5d045fc7c59e12ff",
+      "fileSize": 107048
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQReportSystem.cs",
+      "notifiedAt": "2025-11-05T09:43:35.314Z",
+      "contentHash": "81faa1fe1e423de795b8fa79fec746317495e230759e9984bb32f86c64481961",
+      "fileSize": 250781
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/AdminMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/AdminMenu.cs",
+      "notifiedAt": "2025-11-05T09:43:37.142Z",
+      "contentHash": "3f9de19e11d2b8229fc7512c922ce42bed0560702b761a53f37cd80ba7f161cd",
+      "fileSize": 127961
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/Batia.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/Batia.cs",
+      "notifiedAt": "2025-11-05T09:43:39.184Z",
+      "contentHash": "a38f1c58fa435ea9d52a66deee5f53ae863f9b88ffda307ac3912c608c0ade97",
+      "fileSize": 96349
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/NameRewards.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/NameRewards.cs",
+      "notifiedAt": "2025-11-05T09:43:41.496Z",
+      "contentHash": "c410b980dbb2309f4e833eb7465a8371b93b60fa20aff3c7d3faffa09dde4c91",
+      "fileSize": 73126
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/XSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/XSkinMenu.cs",
+      "notifiedAt": "2025-11-05T09:43:43.188Z",
+      "contentHash": "923fe9598a7778593667a633a8b26be79894775b6b56bf492e2bad975bbbb416",
+      "fileSize": 69875
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:43:45.169Z",
+      "contentHash": "3bf0efdb52fd09f76fdff433ea3fbbc9eddcf4dc4b375e69c7ab55663b828462",
+      "fileSize": 87165
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/CopyPaste.cs",
+      "notifiedAt": "2025-11-05T09:43:47.257Z",
+      "contentHash": "b57a3a4ca389087a90b53dd21ccaf2f77abbc923520de122b76b242eb374983f",
+      "fileSize": 128400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/JUST RUST/JUST RUST/plugins/NTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/JUST RUST/JUST RUST/plugins/NTeleportation.cs",
+      "notifiedAt": "2025-11-05T09:43:49.255Z",
+      "contentHash": "5ea071b62f8642d22f76bb53b576d6f04a21d8e68c79ee9476849a32c2ca242e",
+      "fileSize": 274804
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/JUST RUST/JUST RUST/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/JUST RUST/JUST RUST/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:43:51.716Z",
+      "contentHash": "9c27a8c5264cb18aaf7dd191790b9fcdfc1825018d7986e028c759002af3d334",
+      "fileSize": 65803
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/DReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/DReportSystem.cs",
+      "notifiedAt": "2025-11-05T09:43:53.146Z",
+      "contentHash": "f43f840033e70ea53d4b005b52b35b9285ab336df9c14b25c1450605e274b84c",
+      "fileSize": 91711
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/VKBot.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/VKBot.cs",
+      "notifiedAt": "2025-11-05T09:43:55.143Z",
+      "contentHash": "8d898dc5f3b81f4a1190403569ae2b20f09d3dcf52d9a7a9cffc5307cc9ab5c4",
+      "fileSize": 148023
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/VKBot-1.7.3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/VKBot-1.7.3.cs",
+      "notifiedAt": "2025-11-05T09:43:57.340Z",
+      "contentHash": "fed376e8a4fff44b523e7e29d9ddbec51c1128e772fe2f44601872cb61a8d29c",
+      "fileSize": 155478
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/IQWipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/IQWipeBlock.cs",
+      "notifiedAt": "2025-11-05T09:43:59.223Z",
+      "contentHash": "46acffb4559a6183847fd65c5076b35efc612c05227f873a37e6f93079abeec7",
+      "fileSize": 92279
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/NoEscape-3.2.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/NoEscape-3.2.1.cs",
+      "notifiedAt": "2025-11-05T09:44:01.341Z",
+      "contentHash": "5085652134df455f3397acc4416e58662194311188cab7f5bd39cf0e075f25cf",
+      "fileSize": 73801
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/AutomatedWorkcarts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/AutomatedWorkcarts.cs",
+      "notifiedAt": "2025-11-05T09:44:03.187Z",
+      "contentHash": "67ead336b668312c280a8a5b5c890c04683c488dc4d59494e8c80e8fbe51aa4d",
+      "fileSize": 208675
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Scrim-1.1.2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Scrim-1.1.2.cs",
+      "notifiedAt": "2025-11-05T09:44:05.331Z",
+      "contentHash": "e76a2ce69c375b57007f6cb063ab3dfa8bd25c5b19d792ab91879d4d2c7b423c",
+      "fileSize": 274735
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/ChatPlus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/ChatPlus.cs",
+      "notifiedAt": "2025-11-05T09:44:07.413Z",
+      "contentHash": "85aebbf483ff1b760c2e02d43e14d12d677dffdea9fada0f065526356503bf61",
+      "fileSize": 83639
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:44:09.239Z",
+      "contentHash": "2b8a87591f4820fcd5c1e0d5e8756fb71c1db5e33cc20032bcdead8ec8d1532f",
+      "fileSize": 65982
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RustMap-1.2.15.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RustMap-1.2.15.cs",
+      "notifiedAt": "2025-11-05T09:44:11.328Z",
+      "contentHash": "e7eb1bb717c6270522b7b3c15067bc0618c07f014452f50302f9dcc2b1a5b8fb",
+      "fileSize": 70480
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:44:13.615Z",
+      "contentHash": "80d5ac0a339258ab4fb9abc5e1d47c51e567f5bb4bd82eed7fbca4b69c215e7c",
+      "fileSize": 81897
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/XSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/XSkinMenu.cs",
+      "notifiedAt": "2025-11-05T09:44:15.227Z",
+      "contentHash": "f6c2b2f32b4954f7b3252b2b16038cc396cee2084650a69e2169a540d80d535e",
+      "fileSize": 53685
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/AAlertRaid.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/AAlertRaid.cs",
+      "notifiedAt": "2025-11-05T09:44:17.146Z",
+      "contentHash": "c8638a0581c4451098c70e3d819815b161427338d9d4737b545dcd14ccaf24ed",
+      "fileSize": 65260
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/CraftMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/CraftMenu.cs",
+      "notifiedAt": "2025-11-05T09:44:19.118Z",
+      "contentHash": "c7881c603ccbb577c713a4d582d7a78f40345b3798212a648e424ee2cb09ef03",
+      "fileSize": 74065
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/Friends.cs",
+      "notifiedAt": "2025-11-05T09:44:21.264Z",
+      "contentHash": "357d820fe7e7c6f57a4f3f7d58e1f7d2658fc94be26a42222d6d86e588eec289",
+      "fileSize": 83374
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/RatesController.cs",
+      "notifiedAt": "2025-11-05T09:44:23.358Z",
+      "contentHash": "c1d33ec505bcd211a3dfa67a9b9726a22c0f885375ac37a5d05bb9ea56075192",
+      "fileSize": 103193
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/InstantCraft.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/InstantCraft.cs",
+      "notifiedAt": "2025-11-05T09:44:25.414Z",
+      "contentHash": "ac79494f989e695e2158c9ebc865002706367a851b99246456fc736325ee2c3c",
+      "fileSize": 247337
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-05T09:44:27.163Z",
+      "contentHash": "1ab5512bfe6a9b45915abfa7082a6c403bc1fcbdd21b089aabdef03937158891",
+      "fileSize": 128756
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/Backpack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/Backpack.cs",
+      "notifiedAt": "2025-11-05T09:44:29.630Z",
+      "contentHash": "ed534285eb524322279ebf994e6bdfa2f75f1ab9fea9837257e5ba6676aff14e",
+      "fileSize": 50205
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EMInterface.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EMInterface.cs",
+      "notifiedAt": "2025-11-05T09:44:31.339Z",
+      "contentHash": "701da7a6e7a130937208e3b1d2b9dd543da2bc8671092e0ce5a065730e553b19",
+      "fileSize": 105609
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/EasyGather.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/EasyGather.cs",
+      "notifiedAt": "2025-11-05T09:44:33.170Z",
+      "contentHash": "e9e2529794ae4fb43614d7eb3cf44dd35932b57d2c4095d002cb19489bbad7bd",
+      "fileSize": 163142
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:44:35.205Z",
+      "contentHash": "f6d625e9c87db5910c111b2c38f018215d6f93c8eddac84bde3bc0a094dd1521",
+      "fileSize": 201727
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/RustMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/RustMap.cs",
+      "notifiedAt": "2025-11-05T09:44:37.262Z",
+      "contentHash": "684d7bbe6ef15cf0732fc2c077c3e58555c904a885d73c9d7fffadd9a6f6ab14",
+      "fileSize": 146152
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/RustPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/RustPanel.cs",
+      "notifiedAt": "2025-11-05T09:44:39.239Z",
+      "contentHash": "a89d857e21993d1940f4d2634373daf59eb5681cbb4f6f23caa20ac3a25f835e",
+      "fileSize": 70310
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/QuestSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/QuestSystem.cs",
+      "notifiedAt": "2025-11-05T09:44:41.443Z",
+      "contentHash": "34194cf17dcca49a7b229b5d91ab4dba45224e9d84857db0ea7140020340819e",
+      "fileSize": 91421
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/zEcoLootUI-1.3.12.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/zEcoLootUI-1.3.12.cs",
+      "notifiedAt": "2025-11-05T09:44:43.163Z",
+      "contentHash": "b3ec601c0f39e2a85f651a743efbe03d3b727e2246493ac4b93b7c7f1d89962a",
+      "fileSize": 137273
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Quests.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Quests.cs",
+      "notifiedAt": "2025-11-05T09:44:45.231Z",
+      "contentHash": "29487799754091b9eb35c7802fa37771f2c77d9c02774e50f6d81ee6f2ed29a7",
+      "fileSize": 69842
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/AutomaticAuthorization.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/AutomaticAuthorization.cs",
+      "notifiedAt": "2025-11-05T09:44:47.161Z",
+      "contentHash": "781d8286369dabd66cfcdbe8bb4265648fe82b9ea9de69ed257d5f74eee90214",
+      "fileSize": 83338
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/PermissionsManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/PermissionsManager.cs",
+      "notifiedAt": "2025-11-05T09:44:49.321Z",
+      "contentHash": "4b4bc3bf39efe59a0ff62368401ecdf2bf53ef7a977aa544c629fcd3e5d19ab3",
+      "fileSize": 70755
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/GameStoresRUST.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/GameStoresRUST.cs",
+      "notifiedAt": "2025-11-05T09:44:51.289Z",
+      "contentHash": "c446d63a494c36b72bc616aff225dd8f11757a26965b48be5d045fc7c59e12ff",
+      "fileSize": 107048
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/AdminMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/AdminMenu.cs",
+      "notifiedAt": "2025-11-05T09:44:53.127Z",
+      "contentHash": "3f9de19e11d2b8229fc7512c922ce42bed0560702b761a53f37cd80ba7f161cd",
+      "fileSize": 127961
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Prison-1.0.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Prison-1.0.5.cs",
+      "notifiedAt": "2025-11-05T09:44:55.122Z",
+      "contentHash": "0e10ad84b2d4d067c19d12a210c2b8140717a2dca28154e970061b901c14a29e",
+      "fileSize": 69348
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/IQChat.cs",
+      "notifiedAt": "2025-11-05T09:44:57.167Z",
+      "contentHash": "117f834cfc5d2c54be8d54673b160ed2745a634c867c800f85ba247236ad790c",
+      "fileSize": 313792
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/Rustcord.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/Rustcord.cs",
+      "notifiedAt": "2025-11-05T09:44:59.132Z",
+      "contentHash": "4705a4ab93d0c17debbb5394ba99bb5410c747e46d61fa3db11b1a132165b22d",
+      "fileSize": 161819
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Crafts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Crafts.cs",
+      "notifiedAt": "2025-11-05T09:45:01.140Z",
+      "contentHash": "2bbe7b8caf958a44ff75a7a66af63007a14ef555450bc3a2ed8488e5ff1e5351",
+      "fileSize": 84089
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/AdminESP.cs",
+      "notifiedAt": "2025-11-05T09:45:03.504Z",
+      "contentHash": "a9a461710fabd31c4ca76471310bd8b5f9a12f02346ee0d9b05a22e3280ea96e",
+      "fileSize": 99622
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/CombatBB.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/CombatBB.cs",
+      "notifiedAt": "2025-11-05T09:45:05.311Z",
+      "contentHash": "281bda87da4f866d817ec5870b82e96e1582eb651576425d01c2790a4a105359",
+      "fileSize": 81620
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/CombatBB.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/CombatBB.cs",
+      "notifiedAt": "2025-11-05T09:45:07.307Z",
+      "contentHash": "281bda87da4f866d817ec5870b82e96e1582eb651576425d01c2790a4a105359",
+      "fileSize": 81620
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборки/Сборки/BASE RUST NEEEW/oxide/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборки/Сборки/BASE RUST NEEEW/oxide/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:45:09.244Z",
+      "contentHash": "ec7755dcfc94f6051fcf5d0be7cd29e8afb4a1e5eeff2082c6bcfbd61cfbeebf",
+      "fileSize": 83494
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/CustomVendingSetup.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/CustomVendingSetup.cs",
+      "notifiedAt": "2025-11-05T09:45:11.169Z",
+      "contentHash": "9029cc4f71dc4629307694762d1b1635a5240576148ff0af393181cc1460ee8a",
+      "fileSize": 111812
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/AdminLogger.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/AdminLogger.cs",
+      "notifiedAt": "2025-11-05T09:45:13.216Z",
+      "contentHash": "650fb74d87dbbd157291c1738dd2bef3e94cb0399e6d4d073e867040913e4295",
+      "fileSize": 82796
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/BanSystem.cs",
+      "notifiedAt": "2025-11-05T09:45:15.371Z",
+      "contentHash": "1e359096d2e279392b70ba1a7b08b00f1d80600da25dfb293733d6d765e4782d",
+      "fileSize": 56668
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/IQMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/IQMarker.cs",
+      "notifiedAt": "2025-11-05T09:45:17.676Z",
+      "contentHash": "3ae7fea66802b9479d6499c88a409fe76d67cd767cad3dd87eb2f17aaed408eb",
+      "fileSize": 132437
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/EasyAdmin.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/EasyAdmin.cs",
+      "notifiedAt": "2025-11-05T09:45:19.259Z",
+      "contentHash": "0d239d8f41028d5669b5dc6ba993e654502e694a318286b6f8b11f218dc9c72c",
+      "fileSize": 130071
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-05T09:45:21.236Z",
+      "contentHash": "c05207d259960d7ed4d292be16474d3f7d1cd286f1d78eee66f70048e01a5a6d",
+      "fileSize": 138274
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/NTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/NTeleportation.cs",
+      "notifiedAt": "2025-11-05T09:45:23.222Z",
+      "contentHash": "1176aa250a0e5b5a10bec5ad6cfc161287045d74b571df528f8f959c87d8005b",
+      "fileSize": 291647
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/RaidNotice.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/RaidNotice.cs",
+      "notifiedAt": "2025-11-05T09:45:25.172Z",
+      "contentHash": "10a18167889ad0261130af14638b9fb5fda6d8cac3c16750816ce97aac2186b8",
+      "fileSize": 54329
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/RaidNotice.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/RaidNotice.cs",
+      "notifiedAt": "2025-11-05T09:45:27.444Z",
+      "contentHash": "10a18167889ad0261130af14638b9fb5fda6d8cac3c16750816ce97aac2186b8",
+      "fileSize": 54329
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/RaidNotice.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/RaidNotice.cs",
+      "notifiedAt": "2025-11-05T09:45:29.234Z",
+      "contentHash": "10a18167889ad0261130af14638b9fb5fda6d8cac3c16750816ce97aac2186b8",
+      "fileSize": 54329
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/RaidNotice.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/RaidNotice.cs",
+      "notifiedAt": "2025-11-05T09:45:31.393Z",
+      "contentHash": "10a18167889ad0261130af14638b9fb5fda6d8cac3c16750816ce97aac2186b8",
+      "fileSize": 54329
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/SkyReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/SkyReportSystem.cs",
+      "notifiedAt": "2025-11-05T09:45:33.195Z",
+      "contentHash": "0bac5ce27f9e1e93541e40902b8f91eef82721d6bcd4cdf97d0c3889d3dd72c9",
+      "fileSize": 71584
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:45:35.160Z",
+      "contentHash": "b3b40738a50f965e8a383cdb2dd54de9d3e3de9731a94eb6d7b670488bab0db1",
+      "fileSize": 55928
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Arkan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Arkan.cs",
+      "notifiedAt": "2025-11-05T09:45:37.157Z",
+      "contentHash": "8ac8dc3db1730472f8bf0b50a35b665bdeeccebc85d95789a9dafa2acfcac152",
+      "fileSize": 260792
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/ChickensAndEggs.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/ChickensAndEggs.cs",
+      "notifiedAt": "2025-11-05T09:45:39.455Z",
+      "contentHash": "51c1206596953b24fcc1a21f3eb6fd7f5ce71abcd6a311215209d909c6b7923a",
+      "fileSize": 82457
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EventManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EventManager.cs",
+      "notifiedAt": "2025-11-05T09:45:41.370Z",
+      "contentHash": "846480f6607e16a7bde4aebdd1dd42d6c4c2817fa07a2bec66670da385d5f173",
+      "fileSize": 118552
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/AdminESP.cs",
+      "notifiedAt": "2025-11-05T09:45:43.214Z",
+      "contentHash": "a9a461710fabd31c4ca76471310bd8b5f9a12f02346ee0d9b05a22e3280ea96e",
+      "fileSize": 99622
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/Mercenaries.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/Mercenaries.cs",
+      "notifiedAt": "2025-11-05T09:45:45.238Z",
+      "contentHash": "ebb61c583c16d3090bcc0535dc22d9718c44455f658629be24d6c44ef5bd9708",
+      "fileSize": 118828
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/RustMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/RustMap.cs",
+      "notifiedAt": "2025-11-05T09:45:47.361Z",
+      "contentHash": "6a72c82aab1a4ac7719b60ac3788bbf738a7aded8b1106b5db13407208af1971",
+      "fileSize": 156294
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WipeCalendar-0.2.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WipeCalendar-0.2.5.cs",
+      "notifiedAt": "2025-11-05T09:45:49.156Z",
+      "contentHash": "429b4777abff4864b454f2a626e6ca54f534ee171c6897f2210543783b41ad04",
+      "fileSize": 52041
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/CombatBB.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/CombatBB.cs",
+      "notifiedAt": "2025-11-05T09:45:51.201Z",
+      "contentHash": "281bda87da4f866d817ec5870b82e96e1582eb651576425d01c2790a4a105359",
+      "fileSize": 81620
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:45:53.289Z",
+      "contentHash": "87c3a277ed47c7ac6656a4858fe6b317be0d7cdf1e1c583967ad875877505b1b",
+      "fileSize": 65911
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Kits.cs",
+      "notifiedAt": "2025-11-05T09:45:55.192Z",
+      "contentHash": "ec7755dcfc94f6051fcf5d0be7cd29e8afb4a1e5eeff2082c6bcfbd61cfbeebf",
+      "fileSize": 83494
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaceTrack-0.1.97.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaceTrack-0.1.97.cs",
+      "notifiedAt": "2025-11-05T09:45:57.158Z",
+      "contentHash": "1aa11332dce69035c445216f4fa39eef8ac7e05ee429d0fa6dc49e4f00edeeba",
+      "fileSize": 184992
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:45:59.204Z",
+      "contentHash": "4ba3a19c5a16c1e62a1655ccf3e70ad9523184bcc795a36a782b171032776a36",
+      "fileSize": 57691
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/CustomVendingSetup.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/CustomVendingSetup.cs",
+      "notifiedAt": "2025-11-05T09:46:01.153Z",
+      "contentHash": "9029cc4f71dc4629307694762d1b1635a5240576148ff0af393181cc1460ee8a",
+      "fileSize": 111812
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/XSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/XSkinMenu.cs",
+      "notifiedAt": "2025-11-05T09:46:03.176Z",
+      "contentHash": "af96c8815d0c8d17214719adf662baafc94abdd3411952030dade21ed8b74761",
+      "fileSize": 53695
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/AdminLogger.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/AdminLogger.cs",
+      "notifiedAt": "2025-11-05T09:46:05.173Z",
+      "contentHash": "650fb74d87dbbd157291c1738dd2bef3e94cb0399e6d4d073e867040913e4295",
+      "fileSize": 82796
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQChat.cs",
+      "notifiedAt": "2025-11-05T09:46:07.235Z",
+      "contentHash": "f3aff008ba03ed5b01862c4f0ef4568823b4e458057f90eb504cacb155143c3f",
+      "fileSize": 324316
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/BanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/BanSystem.cs",
+      "notifiedAt": "2025-11-05T09:46:09.140Z",
+      "contentHash": "1e359096d2e279392b70ba1a7b08b00f1d80600da25dfb293733d6d765e4782d",
+      "fileSize": 56668
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/IQMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/IQMarker.cs",
+      "notifiedAt": "2025-11-05T09:46:11.284Z",
+      "contentHash": "3ae7fea66802b9479d6499c88a409fe76d67cd767cad3dd87eb2f17aaed408eb",
+      "fileSize": 132437
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/EasyAdmin.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/EasyAdmin.cs",
+      "notifiedAt": "2025-11-05T09:46:13.166Z",
+      "contentHash": "0d239d8f41028d5669b5dc6ba993e654502e694a318286b6f8b11f218dc9c72c",
+      "fileSize": 130071
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/NoEscape.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/NoEscape.cs",
+      "notifiedAt": "2025-11-05T09:46:15.141Z",
+      "contentHash": "2f4f95b52f9789a1331c2f4313499fa6bbfd5a4bd95cd65299cbdcce79b3169f",
+      "fileSize": 64116
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/GameStoresRUST.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/GameStoresRUST.cs",
+      "notifiedAt": "2025-11-05T09:46:17.196Z",
+      "contentHash": "933837d3190a87d6e5e583aebd36717af340acaf8d18a58fd17368a36348c22d",
+      "fileSize": 104985
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDChinookEvent-2.5.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDChinookEvent-2.5.0.cs",
+      "notifiedAt": "2025-11-05T09:46:19.150Z",
+      "contentHash": "502c7c0443633ff8d5d716dd626ce508cda8523b5eda1177881d4e8eabfd74cc",
+      "fileSize": 51400
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/Clans.cs",
+      "notifiedAt": "2025-11-05T09:46:21.245Z",
+      "contentHash": "1e761d6cb2c5f33f8d7ff87cc15fb4a8500df245f65d8ca4cc3bc0bd2b4536e3",
+      "fileSize": 331317
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:46:23.218Z",
+      "contentHash": "17fe413a72a609a1da5278c713967cecdff867cd98e8361a04ea543db3c8e226",
+      "fileSize": 95751
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/Teleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/Teleportation.cs",
+      "notifiedAt": "2025-11-05T09:46:25.142Z",
+      "contentHash": "ee361102b817af5fc5211ab394d41c118f0aea9e5a2d494b1a9e18e0eef4f747",
+      "fileSize": 85357
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-05T09:46:27.151Z",
+      "contentHash": "c05207d259960d7ed4d292be16474d3f7d1cd286f1d78eee66f70048e01a5a6d",
+      "fileSize": 138274
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/WipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/WipeBlock.cs",
+      "notifiedAt": "2025-11-05T09:46:29.183Z",
+      "contentHash": "1d169890ed1d8e0c55816a4c2f7fa4c4b10594faa887d97940acf09f4a44e825",
+      "fileSize": 50276
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Backpack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Backpack.cs",
+      "notifiedAt": "2025-11-05T09:46:31.165Z",
+      "contentHash": "2427603046bfe2b9c630f8c6cde37a4c0fe59399c524a73def58e6a8cf44b18c",
+      "fileSize": 50185
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/StatisticsRu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/StatisticsRu.cs",
+      "notifiedAt": "2025-11-05T09:46:33.477Z",
+      "contentHash": "edc0394d80104b13fa8544d8e075813b4d1f047fce63760db97941c8bce25b8c",
+      "fileSize": 91456
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/GameStoresRUST.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/GameStoresRUST.cs",
+      "notifiedAt": "2025-11-05T09:46:35.330Z",
+      "contentHash": "37559c4afa1124367c570450d5ca329a8804d7a79b91443e8bdd78c7e7876cc6",
+      "fileSize": 106985
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ZealStatistics-1.0.8.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ZealStatistics-1.0.8.cs",
+      "notifiedAt": "2025-11-05T09:46:37.285Z",
+      "contentHash": "430d42c9fd74741c1e1f66c03d7443466f43d05cba2f7bc0795721b1c7258a60",
+      "fileSize": 140567
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDShop-1.3.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XDShop-1.3.5.cs",
+      "notifiedAt": "2025-11-05T09:46:39.485Z",
+      "contentHash": "287cd508303daae3897e07e46346c93cd288d063e6013f457f7ff1b1d926b17a",
+      "fileSize": 152085
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/NTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/NTeleportation.cs",
+      "notifiedAt": "2025-11-05T09:46:41.343Z",
+      "contentHash": "1176aa250a0e5b5a10bec5ad6cfc161287045d74b571df528f8f959c87d8005b",
+      "fileSize": 291647
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/Crafts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/Crafts.cs",
+      "notifiedAt": "2025-11-05T09:46:43.333Z",
+      "contentHash": "001c6a5167c9ab2c35cf1af644c15e542491c83eb2353b9551de4a05cd13cbde",
+      "fileSize": 84109
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:46:45.336Z",
+      "contentHash": "a79aea2193f7238043bbab43de7c38d3041082f3d54575ac31dd26b93816ae80",
+      "fileSize": 54275
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:46:47.121Z",
+      "contentHash": "a79aea2193f7238043bbab43de7c38d3041082f3d54575ac31dd26b93816ae80",
+      "fileSize": 54275
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:46:49.257Z",
+      "contentHash": "a79aea2193f7238043bbab43de7c38d3041082f3d54575ac31dd26b93816ae80",
+      "fileSize": 54275
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:46:51.205Z",
+      "contentHash": "a79aea2193f7238043bbab43de7c38d3041082f3d54575ac31dd26b93816ae80",
+      "fileSize": 54275
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/NTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/NTeleportation.cs",
+      "notifiedAt": "2025-11-05T09:46:53.228Z",
+      "contentHash": "b6a446eeb6793256bf56b44a2195c0fc8367996ba2dac17048899c74ac87eed6",
+      "fileSize": 295786
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/IQReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/IQReportSystem.cs",
+      "notifiedAt": "2025-11-05T09:46:55.359Z",
+      "contentHash": "590a94a1d8b8b4a7c90387007536d990ddd7e0429a195004596a328ac2e5b6ac",
+      "fileSize": 255432
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/RustStats.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/RustStats.cs",
+      "notifiedAt": "2025-11-05T09:46:57.138Z",
+      "contentHash": "646163c41eb5e3c71c849447a139702c39d9c8080e59ae6f63e6777a90148613",
+      "fileSize": 62300
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RustStats-1.0.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RustStats-1.0.1.cs",
+      "notifiedAt": "2025-11-05T09:46:59.163Z",
+      "contentHash": "646163c41eb5e3c71c849447a139702c39d9c8080e59ae6f63e6777a90148613",
+      "fileSize": 62300
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/RustStats.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/RustStats.cs",
+      "notifiedAt": "2025-11-05T09:47:01.285Z",
+      "contentHash": "646163c41eb5e3c71c849447a139702c39d9c8080e59ae6f63e6777a90148613",
+      "fileSize": 62300
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/RustStats.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/RustStats.cs",
+      "notifiedAt": "2025-11-05T09:47:03.308Z",
+      "contentHash": "646163c41eb5e3c71c849447a139702c39d9c8080e59ae6f63e6777a90148613",
+      "fileSize": 62300
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/DeathMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/DeathMessages.cs",
+      "notifiedAt": "2025-11-05T09:47:05.157Z",
+      "contentHash": "29af10246c89723f4fe654f698c8c0d01288e97372cf04574fd9f0cfec3ce337",
+      "fileSize": 31722
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/CustomHotbar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/CustomHotbar.cs",
+      "notifiedAt": "2025-11-05T09:47:07.246Z",
+      "contentHash": "3c2368f6ba44d07b503adc72690ea201ea2430a1838f11e93e5c864928db55e1",
+      "fileSize": 29380
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/Notify.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/Notify.cs",
+      "notifiedAt": "2025-11-05T09:47:09.142Z",
+      "contentHash": "67d5ca1e0dd36fdbed2924d334dc6340507ee15dfa37f3261e1119fafc002a00",
+      "fileSize": 23052
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.0.0.cs",
+      "notifiedAt": "2025-11-05T09:47:11.229Z",
+      "contentHash": "0081d974b264b8b80154e45226b2f6194221733f187f6498c6c8616e01610dc0",
+      "fileSize": 22453
+    },
+    "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins/WipeSchedule.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins/WipeSchedule.cs",
+      "notifiedAt": "2025-11-05T09:47:13.139Z",
+      "contentHash": "423d06dc5688ab5209c18c21047913914f728987d67e6604df8a739a4c2534ec",
+      "fileSize": 22492
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/Menu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/Menu.cs",
+      "notifiedAt": "2025-11-05T09:47:15.199Z",
+      "contentHash": "a3a273117326ea606351fb06fc3f4c89c21ce4bd8a2b9a871b1293cf1144b563",
+      "fileSize": 34127
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/SkipNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/SkipNight.cs",
+      "notifiedAt": "2025-11-05T09:47:17.261Z",
+      "contentHash": "9635c703295ef5ac78ab001e38cdcb9a9186f8678d944f7c7e2b6a0d17433e3c",
+      "fileSize": 40367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SkipNight-2.2.11 B.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SkipNight-2.2.11 B.cs",
+      "notifiedAt": "2025-11-05T09:47:19.346Z",
+      "contentHash": "9635c703295ef5ac78ab001e38cdcb9a9186f8678d944f7c7e2b6a0d17433e3c",
+      "fileSize": 40367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/SkipNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/SkipNight.cs",
+      "notifiedAt": "2025-11-05T09:47:21.234Z",
+      "contentHash": "9635c703295ef5ac78ab001e38cdcb9a9186f8678d944f7c7e2b6a0d17433e3c",
+      "fileSize": 40367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/SkipNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/SkipNight.cs",
+      "notifiedAt": "2025-11-05T09:47:23.149Z",
+      "contentHash": "9635c703295ef5ac78ab001e38cdcb9a9186f8678d944f7c7e2b6a0d17433e3c",
+      "fileSize": 40367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/MonumentsRecycler.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/MonumentsRecycler.cs",
+      "notifiedAt": "2025-11-05T09:47:25.510Z",
+      "contentHash": "fb4062a6f5d0f84908f7b511d10abc3b75d05e72fda943de4a54fe90bd80ca5b",
+      "fileSize": 16343
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AdminHammer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AdminHammer.cs",
+      "notifiedAt": "2025-11-05T09:47:27.144Z",
+      "contentHash": "fdbac030ae864bbe7e3a7960f61506ebd1b7a6d998fadd6a6b6ceb90db762f60",
+      "fileSize": 17440
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/PermView.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/PermView.cs",
+      "notifiedAt": "2025-11-05T09:47:29.539Z",
+      "contentHash": "15250ec7f936ee6c4093def94a06e3ade2be786037662be221fe53f3126eac80",
+      "fileSize": 14322
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Give.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Give.cs",
+      "notifiedAt": "2025-11-05T09:47:31.168Z",
+      "contentHash": "213278c6fcf163e0e8517f0dadc5a71d6ac170305c405cad49834c421d84579c",
+      "fileSize": 30130
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/RemoveUpgradeV2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/RemoveUpgradeV2.cs",
+      "notifiedAt": "2025-11-05T09:47:33.203Z",
+      "contentHash": "0140b455b2ad319d821f18f42f4983929f727bd6472f1cacfe2422e5b96f8a13",
+      "fileSize": 36267
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-05T09:47:35.186Z",
+      "contentHash": "0fa04bc6be6147320a86810a4c7196a38c5b77e0d8f9938a49ef352cfa972c7a",
+      "fileSize": 20113
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/OreBonus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/OreBonus.cs",
+      "notifiedAt": "2025-11-05T09:47:37.208Z",
+      "contentHash": "ed2de723e0d7eab013aa1377bef1ce33f7c46cc8cfb73b155aa2cac19af3d324",
+      "fileSize": 10635
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.1.11.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.1.11.cs",
+      "notifiedAt": "2025-11-05T09:47:39.274Z",
+      "contentHash": "af04f5aa8343ea743f4da390db264794913e01d449df60b469804869a013b183",
+      "fileSize": 30340
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XRate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XRate.cs",
+      "notifiedAt": "2025-11-05T09:47:41.386Z",
+      "contentHash": "6e0c635d8b2776f8f8addd1fd832351ff917665333f218c4d4a1b1ecfe75aa06",
+      "fileSize": 40779
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XerCopterCraft.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XerCopterCraft.cs",
+      "notifiedAt": "2025-11-05T09:47:43.306Z",
+      "contentHash": "931bd5706435ddc1e405218e5173d770e5b49fb8b3e97390e663b438272bcfbf",
+      "fileSize": 19098
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AntiCheat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AntiCheat.cs",
+      "notifiedAt": "2025-11-05T09:47:45.149Z",
+      "contentHash": "87c2f4d9d29a7bd660c35a04be2169b6e5f06e4753759b68aa05c3748bd9ae53",
+      "fileSize": 39123
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/ZetaVehicle.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/ZetaVehicle.cs",
+      "notifiedAt": "2025-11-05T09:47:47.116Z",
+      "contentHash": "054fcd7f2394c2ab38f7e25c54b11000a8ec515aeb3837980ba4caf2c5eaaeff",
+      "fileSize": 32394
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/StatsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/StatsSystem.cs",
+      "notifiedAt": "2025-11-05T09:47:49.185Z",
+      "contentHash": "ec22890b7b699d8dcfe85114580a4f2341bed358906df3fe4d54c7b026bf6cb0",
+      "fileSize": 39331
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/BHelp.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/BHelp.cs",
+      "notifiedAt": "2025-11-05T09:47:51.149Z",
+      "contentHash": "58fae278908768d753b65492a9c98cb719b9d5241ae782a49a17e3e42307dfbb",
+      "fileSize": 22533
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/EnemyBar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/EnemyBar.cs",
+      "notifiedAt": "2025-11-05T09:47:53.162Z",
+      "contentHash": "3e3f0fe4f0b2a1f628ce107bc731b937615a367ea954cd67e3dd022ee670f894",
+      "fileSize": 12122
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/EnemyBar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/EnemyBar.cs",
+      "notifiedAt": "2025-11-05T09:47:55.232Z",
+      "contentHash": "3e3f0fe4f0b2a1f628ce107bc731b937615a367ea954cd67e3dd022ee670f894",
+      "fileSize": 12122
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/EnemyBar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/EnemyBar.cs",
+      "notifiedAt": "2025-11-05T09:47:57.473Z",
+      "contentHash": "3e3f0fe4f0b2a1f628ce107bc731b937615a367ea954cd67e3dd022ee670f894",
+      "fileSize": 12122
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/EnemyBar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/EnemyBar.cs",
+      "notifiedAt": "2025-11-05T09:47:59.264Z",
+      "contentHash": "3e3f0fe4f0b2a1f628ce107bc731b937615a367ea954cd67e3dd022ee670f894",
+      "fileSize": 12122
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-05T09:48:01.111Z",
+      "contentHash": "0172a80cddaf8db6efbad3aad5db47f2c9b43e42d316cbe99004d83f08315b0e",
+      "fileSize": 26453
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SECRET_RUST_MUSOR/MUSORKA/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-05T09:48:03.161Z",
+      "contentHash": "0172a80cddaf8db6efbad3aad5db47f2c9b43e42d316cbe99004d83f08315b0e",
+      "fileSize": 26453
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/musor/musor/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-05T09:48:05.164Z",
+      "contentHash": "0172a80cddaf8db6efbad3aad5db47f2c9b43e42d316cbe99004d83f08315b0e",
+      "fileSize": 26453
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Grant.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/Grant.cs",
+      "notifiedAt": "2025-11-05T09:48:07.176Z",
+      "contentHash": "4f1eecb4107044b8d69e61f205f450067e4fb2a30ccc9c1b74d60a05d56acb12",
+      "fileSize": 26197
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Grant.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Grant.cs",
+      "notifiedAt": "2025-11-05T09:48:09.273Z",
+      "contentHash": "4f1eecb4107044b8d69e61f205f450067e4fb2a30ccc9c1b74d60a05d56acb12",
+      "fileSize": 26197
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Grant-1.1.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Grant-1.1.1.cs",
+      "notifiedAt": "2025-11-05T09:48:11.183Z",
+      "contentHash": "4f1eecb4107044b8d69e61f205f450067e4fb2a30ccc9c1b74d60a05d56acb12",
+      "fileSize": 26197
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/DoorsControl.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/DoorsControl.cs",
+      "notifiedAt": "2025-11-05T09:48:13.538Z",
+      "contentHash": "89d5156ccda2d2f26a77fd0dd0d40b9164e6044d1e8add89a85b1f89127f4110",
+      "fileSize": 33276
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/DoorsControl.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/DoorsControl.cs",
+      "notifiedAt": "2025-11-05T09:48:15.154Z",
+      "contentHash": "89d5156ccda2d2f26a77fd0dd0d40b9164e6044d1e8add89a85b1f89127f4110",
+      "fileSize": 33276
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/DoorsControl.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/DoorsControl.cs",
+      "notifiedAt": "2025-11-05T09:48:17.300Z",
+      "contentHash": "89d5156ccda2d2f26a77fd0dd0d40b9164e6044d1e8add89a85b1f89127f4110",
+      "fileSize": 33276
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/DoorsControl.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/DoorsControl.cs",
+      "notifiedAt": "2025-11-05T09:48:19.154Z",
+      "contentHash": "89d5156ccda2d2f26a77fd0dd0d40b9164e6044d1e8add89a85b1f89127f4110",
+      "fileSize": 33276
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQRates.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/IQRates.cs",
+      "notifiedAt": "2025-11-05T09:48:21.164Z",
+      "contentHash": "656dbae8a41b4807e50451328b9d02025d214cc670bd6df10b14bdafc68e768c",
+      "fileSize": 43731
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:48:23.251Z",
+      "contentHash": "e3e8a10aba45b048e0c30d01723973e7fc2b9a5771ec914632926cfc27856b22",
+      "fileSize": 11172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:48:25.256Z",
+      "contentHash": "e3e8a10aba45b048e0c30d01723973e7fc2b9a5771ec914632926cfc27856b22",
+      "fileSize": 11172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:48:27.327Z",
+      "contentHash": "e3e8a10aba45b048e0c30d01723973e7fc2b9a5771ec914632926cfc27856b22",
+      "fileSize": 11172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP RUST 10X/oxide/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:48:29.131Z",
+      "contentHash": "e3e8a10aba45b048e0c30d01723973e7fc2b9a5771ec914632926cfc27856b22",
+      "fileSize": 11172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/emerald/emerald/plugins/SkipNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/emerald/emerald/plugins/SkipNight.cs",
+      "notifiedAt": "2025-11-05T09:48:31.170Z",
+      "contentHash": "9635c703295ef5ac78ab001e38cdcb9a9186f8678d944f7c7e2b6a0d17433e3c",
+      "fileSize": 40367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Backpack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Backpack.cs",
+      "notifiedAt": "2025-11-05T09:48:33.332Z",
+      "contentHash": "368b4e877961ec8fa12efa9cb2026aa7c5a1301638f5d17ceb910b7671b4fa16",
+      "fileSize": 31844
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/PermView.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/PermView.cs",
+      "notifiedAt": "2025-11-05T09:48:35.152Z",
+      "contentHash": "15250ec7f936ee6c4093def94a06e3ade2be786037662be221fe53f3126eac80",
+      "fileSize": 14322
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/Exchanger.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/Exchanger.cs",
+      "notifiedAt": "2025-11-05T09:48:37.221Z",
+      "contentHash": "95e59d2a03e38f3d1c6b67f37316b5fa994e976e85e33ed343f4d14853f661b8",
+      "fileSize": 29159
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/CraftingController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/CraftingController.cs",
+      "notifiedAt": "2025-11-05T09:48:39.179Z",
+      "contentHash": "5e83b35e04968bb76d0ed7f874b28c43df0f8a6cefff71a2d01a0fa77ca0462d",
+      "fileSize": 30130
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/XWipeCalendar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/XWipeCalendar.cs",
+      "notifiedAt": "2025-11-05T09:48:41.223Z",
+      "contentHash": "6f845b830fa86dfa08133babd247f1fa07507f00fd6d2679a6ad94044c74fd50",
+      "fileSize": 15371
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/HitMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/HitMarker.cs",
+      "notifiedAt": "2025-11-05T09:48:43.572Z",
+      "contentHash": "c51ea3acfa5a90d58485b1ba65372033742ffffc71cd64582e0ad4875ebb1b48",
+      "fileSize": 23526
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-05T09:48:45.274Z",
+      "contentHash": "0fa04bc6be6147320a86810a4c7196a38c5b77e0d8f9938a49ef352cfa972c7a",
+      "fileSize": 20113
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WipeBlock-2.0.10 Hougan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WipeBlock-2.0.10 Hougan.cs",
+      "notifiedAt": "2025-11-05T09:48:47.163Z",
+      "contentHash": "a2ef1f40abebe004ae9ba4799de4dbd64a7219bfba67fba769aaf0758413a577",
+      "fileSize": 44808
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/TicketSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/TicketSystem.cs",
+      "notifiedAt": "2025-11-05T09:48:49.108Z",
+      "contentHash": "b3fa7025d0124ff9445eb7ec6280c26600b490c359f8f7eaa88af6bce491546f",
+      "fileSize": 21105
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/OreBonus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/OreBonus.cs",
+      "notifiedAt": "2025-11-05T09:48:51.147Z",
+      "contentHash": "ed2de723e0d7eab013aa1377bef1ce33f7c46cc8cfb73b155aa2cac19af3d324",
+      "fileSize": 10635
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/InfoPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/InfoPanel.cs",
+      "notifiedAt": "2025-11-05T09:48:53.137Z",
+      "contentHash": "780ba084af51ca40ee9e438e9f2e150c85a267bcca1230e844ccfda0f6b30526",
+      "fileSize": 38657
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ZealRadialMenu-1.0.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ZealRadialMenu-1.0.5.cs",
+      "notifiedAt": "2025-11-05T09:48:55.227Z",
+      "contentHash": "444e1707a610fec8c4d0166f477062cb72fb4a5611abca7ffb96771ce65a2687",
+      "fileSize": 17493
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/Friends.cs",
+      "notifiedAt": "2025-11-05T09:48:57.230Z",
+      "contentHash": "af04f5aa8343ea743f4da390db264794913e01d449df60b469804869a013b183",
+      "fileSize": 30340
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/XRate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/XRate.cs",
+      "notifiedAt": "2025-11-05T09:48:59.256Z",
+      "contentHash": "6e0c635d8b2776f8f8addd1fd832351ff917665333f218c4d4a1b1ecfe75aa06",
+      "fileSize": 40779
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/XerCopterCraft.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/XerCopterCraft.cs",
+      "notifiedAt": "2025-11-05T09:49:01.544Z",
+      "contentHash": "931bd5706435ddc1e405218e5173d770e5b49fb8b3e97390e663b438272bcfbf",
+      "fileSize": 19098
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/NPCVendingManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка DayzRust/oxide/plugins/NPCVendingManager.cs",
+      "notifiedAt": "2025-11-05T09:49:03.182Z",
+      "contentHash": "5defdd9b4b232dbd4dfbf936827b2fda07576c56b36cabb537ce6d43e5ee0460",
+      "fileSize": 11598
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/BloodBoost.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/BloodBoost.cs",
+      "notifiedAt": "2025-11-05T09:49:05.198Z",
+      "contentHash": "e19cbc7f48ecbc29f834023501f644b3cef078a51b225875270630f7cf025902",
+      "fileSize": 29459
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SBagsManager-0.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/SBagsManager-0.1.cs",
+      "notifiedAt": "2025-11-05T09:49:07.356Z",
+      "contentHash": "528fdc342f7df593c6f0b60295d09fa5423f10243c8f985d102330e3e7a2f978",
+      "fileSize": 14634
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XerCopterCraft-1.0.3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/XerCopterCraft-1.0.3.cs",
+      "notifiedAt": "2025-11-05T09:49:09.176Z",
+      "contentHash": "4ef7bc7cd7e964a42fef5f8ec36407ca8552b73dca6ab9db2b5fac3c041a8a29",
+      "fileSize": 19429
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/PermissionSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/PUNKRUST/PUNKRUST/oxide/plugins/PermissionSystem.cs",
+      "notifiedAt": "2025-11-05T09:49:11.157Z",
+      "contentHash": "365e6a9ee200fce0b7cff878f4e10e3c4cb2919474d8e11f619ba8b85a33b5f5",
+      "fileSize": 20217
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/StatsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/basetop oxide/oxide/plugins/StatsSystem.cs",
+      "notifiedAt": "2025-11-05T09:49:13.426Z",
+      "contentHash": "ec22890b7b699d8dcfe85114580a4f2341bed358906df3fe4d54c7b026bf6cb0",
+      "fileSize": 39331
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Vanish-1.0.3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Vanish-1.0.3.cs",
+      "notifiedAt": "2025-11-05T09:49:15.236Z",
+      "contentHash": "a2945bda9fcac2c48f67a129bd38d99f39c6194aba8a55e0766e5dec62e84336",
+      "fileSize": 20710
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/Farmer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/Farmer.cs",
+      "notifiedAt": "2025-11-05T09:49:17.184Z",
+      "contentHash": "d995aca0eda0064dbb58413695b41eeab64e80f6e2de686c79c9521efbf5d835",
+      "fileSize": 37371
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/AutoCCTVStations.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/AutoCCTVStations.cs",
+      "notifiedAt": "2025-11-05T09:49:19.125Z",
+      "contentHash": "512cfdbbb2bb2326a3a82e6c5874dd81e914f2ec2e0a851f400472ca79322ed5",
+      "fileSize": 29965
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/DroneTurrets.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/DroneTurrets.cs",
+      "notifiedAt": "2025-11-05T09:49:21.275Z",
+      "contentHash": "02c5e5ecc8a0f7e93380ddab31676239d021dd0048b0be689007f950b9871f8c",
+      "fileSize": 42433
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/BHelp.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/BHelp.cs",
+      "notifiedAt": "2025-11-05T09:49:23.149Z",
+      "contentHash": "58fae278908768d753b65492a9c98cb719b9d5241ae782a49a17e3e42307dfbb",
+      "fileSize": 22533
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/WlMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/REVIVAL/REVIVAL/plugins/WlMenu.cs",
+      "notifiedAt": "2025-11-05T09:49:25.148Z",
+      "contentHash": "48ddc933613b6222fea80ceff84a55b7b472139af0de656a7eaf0e664df50217",
+      "fileSize": 14989
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/Grant.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/SUMMER_SLIV/SUMMER СЛИВ/plugins/Grant.cs",
+      "notifiedAt": "2025-11-05T09:49:27.214Z",
+      "contentHash": "4f1eecb4107044b8d69e61f205f450067e4fb2a30ccc9c1b74d60a05d56acb12",
+      "fileSize": 26197
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/Farmer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/Farmer.cs",
+      "notifiedAt": "2025-11-05T09:49:29.133Z",
+      "contentHash": "24f2dd740f65ffe137f5fb9780472c98cc5b31bd8e496ed25fa75449170e5f21",
+      "fileSize": 37282
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/XMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/XMenu.cs",
+      "notifiedAt": "2025-11-05T09:49:31.201Z",
+      "contentHash": "faa329ee541117c3e7987dc122ca1990e3c106e4d00700bdcdfd831f1d413922",
+      "fileSize": 25605
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/InfoMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/InfoMenu.cs",
+      "notifiedAt": "2025-11-05T09:49:33.276Z",
+      "contentHash": "7d3924d1ef3caa13843ee825af1bc0986ab8d797b6fe76601b8a631fa59efce9",
+      "fileSize": 36770
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/HitAdvance-2.0.3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/HitAdvance-2.0.3.cs",
+      "notifiedAt": "2025-11-05T09:49:35.151Z",
+      "contentHash": "041c2bde849cab48f2a115f43df7afd2a6163c06bed8f85f06159db6377f750d",
+      "fileSize": 28380
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/StatsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/StatsSystem.cs",
+      "notifiedAt": "2025-11-05T09:49:37.379Z",
+      "contentHash": "c96794ac47cb6a7e18666f2e1f15b6b2390bbe83d69aa76add604cd17da16469",
+      "fileSize": 39172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/GatherPlus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/GatherPlus.cs",
+      "notifiedAt": "2025-11-05T09:49:39.160Z",
+      "contentHash": "7980d755050f948ad099f875480dedc48e74519b0c5bebbf9baf420d351fc61c",
+      "fileSize": 24713
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/IQRates.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/IQRates.cs",
+      "notifiedAt": "2025-11-05T09:49:41.141Z",
+      "contentHash": "656dbae8a41b4807e50451328b9d02025d214cc670bd6df10b14bdafc68e768c",
+      "fileSize": 43731
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:49:43.144Z",
+      "contentHash": "e3e8a10aba45b048e0c30d01723973e7fc2b9a5771ec914632926cfc27856b22",
+      "fileSize": 11172
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-05T09:49:45.168Z",
+      "contentHash": "aa74887b3b66ff4d535a208f24826755e6b4607a4acae8f804f21671560b8d34",
+      "fileSize": 11182
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/SightsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/SightsSystem.cs",
+      "notifiedAt": "2025-11-05T09:49:47.215Z",
+      "contentHash": "48482083a9ffb114116c5a335c68ca24f9c1f54bdd7cf48d4be06fa9c8a600b6",
+      "fileSize": 12678
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/HitAdvance-2.0.4.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/HitAdvance-2.0.4.cs",
+      "notifiedAt": "2025-11-05T09:49:49.214Z",
+      "contentHash": "19f9718d1e409798e15b449c5ffc632b3be5c08822bc2004c9f3079c261fb80e",
+      "fileSize": 30992
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaidNotice-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RaidNotice-1.0.0.cs",
+      "notifiedAt": "2025-11-05T09:49:51.267Z",
+      "contentHash": "9d69be47cd024209807237f1668c107cf904d54e41ad8262cdcdd198e0adcefd",
+      "fileSize": 22607
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/TreePlanter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/TreePlanter.cs",
+      "notifiedAt": "2025-11-05T09:49:53.171Z",
+      "contentHash": "934d91fed0536b3d5d4464d77664f737d38f475c0f0dc71522397846498c7fb7",
+      "fileSize": 12144
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/TreePlanter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/TreePlanter.cs",
+      "notifiedAt": "2025-11-05T09:49:55.263Z",
+      "contentHash": "934d91fed0536b3d5d4464d77664f737d38f475c0f0dc71522397846498c7fb7",
+      "fileSize": 12144
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/TreePlanter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/TreePlanter.cs",
+      "notifiedAt": "2025-11-05T09:49:57.112Z",
+      "contentHash": "934d91fed0536b3d5d4464d77664f737d38f475c0f0dc71522397846498c7fb7",
+      "fileSize": 12144
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/DiscordMessages.cs",
+      "notifiedAt": "2025-11-05T09:49:59.219Z",
+      "contentHash": "7380b2a520e3967b34b0dd0efde003eee3fab45ba637cc54e91981d571c6578d",
+      "fileSize": 40273
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ScrapVendingExchange-1.0.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ScrapVendingExchange-1.0.5.cs",
+      "notifiedAt": "2025-11-05T09:50:02.965Z",
+      "contentHash": "319a4646d543f7d3d5977bb3e76fd51ff23c84615e783d9554c69b34cea286ba",
+      "fileSize": 20296
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/AdminESP.cs",
+      "notifiedAt": "2025-11-05T09:50:03.345Z",
+      "contentHash": "e50286794000603b1e49e75791efe6514b602c77adf1d0cb01a961716b005455",
+      "fileSize": 41686
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dayz_Rust/oxide parasha/plugins/AdminESP.cs",
+      "notifiedAt": "2025-11-05T09:50:05.161Z",
+      "contentHash": "e50286794000603b1e49e75791efe6514b602c77adf1d0cb01a961716b005455",
+      "fileSize": 41686
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/f8082849a49b3b89/Влад раст/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:50:07.140Z",
+      "contentHash": "dd934bdd9e8e555afc4200c64b1bda2ee492f05df9a65b9b41993725ff30c4af",
+      "fileSize": 33410
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/LegendaryBeasts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/LegendaryBeasts.cs",
+      "notifiedAt": "2025-11-05T09:50:09.158Z",
+      "contentHash": "92e08f8102eef82d0b3207dbacd161589997f0a9fecd63ed666fbb1d4548556c",
+      "fileSize": 27273
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/LegendaryBeasts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/LegendaryBeasts.cs",
+      "notifiedAt": "2025-11-05T09:50:11.182Z",
+      "contentHash": "92e08f8102eef82d0b3207dbacd161589997f0a9fecd63ed666fbb1d4548556c",
+      "fileSize": 27273
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/QuickSmelt.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/9f39f732327930da/сборка саншайна/plugins/QuickSmelt.cs",
+      "notifiedAt": "2025-11-05T09:50:13.190Z",
+      "contentHash": "4c3470d282a8c93dcd22a73dbeaadf54ae0c9d55a694a19e6b799689efea3eb9",
+      "fileSize": 19285
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/QuickSmelt-5.1.3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/QuickSmelt-5.1.3.cs",
+      "notifiedAt": "2025-11-05T09:50:15.131Z",
+      "contentHash": "4c3470d282a8c93dcd22a73dbeaadf54ae0c9d55a694a19e6b799689efea3eb9",
+      "fileSize": 19285
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/QuickSmelt.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/QuickSmelt.cs",
+      "notifiedAt": "2025-11-05T09:50:17.220Z",
+      "contentHash": "4c3470d282a8c93dcd22a73dbeaadf54ae0c9d55a694a19e6b799689efea3eb9",
+      "fileSize": 19285
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/InfoTabs.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/InfoTabs.cs",
+      "notifiedAt": "2025-11-05T09:50:19.130Z",
+      "contentHash": "58181df2404b39d160085b8acb234eb6ce7c74ad532344ae4821643d5298ba17",
+      "fileSize": 48996
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/InfoTabs.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/InfoTabs.cs",
+      "notifiedAt": "2025-11-05T09:50:21.144Z",
+      "contentHash": "58181df2404b39d160085b8acb234eb6ce7c74ad532344ae4821643d5298ba17",
+      "fileSize": 48996
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/InfoTabs.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/InfoTabs.cs",
+      "notifiedAt": "2025-11-05T09:50:23.136Z",
+      "contentHash": "58181df2404b39d160085b8acb234eb6ce7c74ad532344ae4821643d5298ba17",
+      "fileSize": 48996
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/InfoTabs.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/InfoTabs.cs",
+      "notifiedAt": "2025-11-05T09:50:25.156Z",
+      "contentHash": "58181df2404b39d160085b8acb234eb6ce7c74ad532344ae4821643d5298ba17",
+      "fileSize": 48996
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RandomSpawns-0.3.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/RandomSpawns-0.3.5.cs",
+      "notifiedAt": "2025-11-05T09:50:27.233Z",
+      "contentHash": "50b7893bbc991131c81b3b9a11316d4637b3e68b0c8db756d247ffbc04be815a",
+      "fileSize": 13160
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins_old/Cases.cs",
+      "notifiedAt": "2025-11-05T09:50:29.454Z",
+      "contentHash": "98fd440c5a0742583668a961ad3e3dc56cbe76c1a71ceb74d29a34e2b6a63443",
+      "fileSize": 44813
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins_old/Cases.cs",
+      "notifiedAt": "2025-11-05T09:50:31.141Z",
+      "contentHash": "98fd440c5a0742583668a961ad3e3dc56cbe76c1a71ceb74d29a34e2b6a63443",
+      "fileSize": 44813
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/Cases.cs",
+      "notifiedAt": "2025-11-05T09:50:33.317Z",
+      "contentHash": "98fd440c5a0742583668a961ad3e3dc56cbe76c1a71ceb74d29a34e2b6a63443",
+      "fileSize": 44813
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Prod-2.2.9.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Prod-2.2.9.cs",
+      "notifiedAt": "2025-11-05T09:50:35.228Z",
+      "contentHash": "e853951beda89e49f10054f7e3240a898c676a64f137418b3104584f7b1787d9",
+      "fileSize": 13112
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Friends.cs",
+      "notifiedAt": "2025-11-05T09:50:37.128Z",
+      "contentHash": "ebf9bc097bfbf40b9a2c50b02c95418daeb67b708462c10e0eb54fede4c0fb31",
+      "fileSize": 39342
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/AnimalSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Trash rust Жирный раст/Жирный раст/oxide/plugins/AnimalSpawn.cs",
+      "notifiedAt": "2025-11-05T09:50:39.344Z",
+      "contentHash": "089e1fa9ab17ff6b7f7695bd9dd510a2633c63f19e1c8fb3ceca84a78b5a8ab5",
+      "fileSize": 15698
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/AnimalSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/AnimalSpawn.cs",
+      "notifiedAt": "2025-11-05T09:50:41.170Z",
+      "contentHash": "089e1fa9ab17ff6b7f7695bd9dd510a2633c63f19e1c8fb3ceca84a78b5a8ab5",
+      "fileSize": 15698
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/AnimalSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/AnimalSpawn.cs",
+      "notifiedAt": "2025-11-05T09:50:43.349Z",
+      "contentHash": "089e1fa9ab17ff6b7f7695bd9dd510a2633c63f19e1c8fb3ceca84a78b5a8ab5",
+      "fileSize": 15698
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/AnimalSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/AnimalSpawn.cs",
+      "notifiedAt": "2025-11-05T09:50:45.106Z",
+      "contentHash": "089e1fa9ab17ff6b7f7695bd9dd510a2633c63f19e1c8fb3ceca84a78b5a8ab5",
+      "fileSize": 15698
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/InstantCraft.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/InstantCraft.cs",
+      "notifiedAt": "2025-11-05T09:50:47.131Z",
+      "contentHash": "0bf0a690899d585f26509faff9904db68d218b0906883403549a639684b2be82",
+      "fileSize": 34064
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/HitMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/HitMarker.cs",
+      "notifiedAt": "2025-11-05T09:50:49.237Z",
+      "contentHash": "356b130492c1f2a3c11b41453c94294e65291c375ae9851da03e6ea4b1de1909",
+      "fileSize": 15627
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/RemoveUpgradeV2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/RemoveUpgradeV2.cs",
+      "notifiedAt": "2025-11-05T09:50:51.136Z",
+      "contentHash": "710da03f1a0af34598aa8f578cbc4baa40ef6dcb07fa3f57df08911c8b83e43c",
+      "fileSize": 36872
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/QuarryLocks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/QuarryLocks.cs",
+      "notifiedAt": "2025-11-05T09:50:53.195Z",
+      "contentHash": "4092dd0d2ab3ae32868a68083420b3bdc90f4e0476b944ba6051237659c324c4",
+      "fileSize": 11261
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/SkinBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/SkinBox.cs",
+      "notifiedAt": "2025-11-05T09:50:55.303Z",
+      "contentHash": "80e1ce1845d5cc5781535fa73955a444950da20b1f67148f5fdb8f0f15224756",
+      "fileSize": 39448
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BLOOD-RUSTv5.0.5/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:50:57.374Z",
+      "contentHash": "c49b950ba33e0f5cebb37036150cf495037b05750f28fe7b2acd1c86ecca7d78",
+      "fileSize": 49429
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/ChatSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/ChatSystem.cs",
+      "notifiedAt": "2025-11-05T09:50:59.133Z",
+      "contentHash": "c3ce0765ebab1adcd470d334c3f75a63444557f4552e7d67939c0982580fddde",
+      "fileSize": 22624
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WelcomeUI-1.0.9.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/WelcomeUI-1.0.9.cs",
+      "notifiedAt": "2025-11-05T09:51:01.208Z",
+      "contentHash": "b16994eff5737abeb94d3389718e8aa897722306e9cf57686cba2c96dfb1fa2b",
+      "fileSize": 33715
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Blood Menu/BloodChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Blood Menu/BloodChat.cs",
+      "notifiedAt": "2025-11-05T09:51:03.332Z",
+      "contentHash": "025406f69912b9be32d2901734c9068e696e7641bc79fde5a66836ae19b1e4b4",
+      "fileSize": 33755
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/WPVipRanks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/WPVipRanks.cs",
+      "notifiedAt": "2025-11-05T09:51:05.174Z",
+      "contentHash": "e14a83a6fd6f2f7504388cea27bd414051dea6233fbedab2edeed698aa130764",
+      "fileSize": 47636
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/DiscordMessages.cs",
+      "notifiedAt": "2025-11-05T09:51:07.202Z",
+      "contentHash": "7380b2a520e3967b34b0dd0efde003eee3fab45ba637cc54e91981d571c6578d",
+      "fileSize": 40273
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Farmer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/Farmer.cs",
+      "notifiedAt": "2025-11-05T09:51:09.155Z",
+      "contentHash": "f08ac44272bde1651eda24ab00d3dca712fa6f869eaf6e1e01dfb0090ce8d204",
+      "fileSize": 37089
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/EvoSorting-1.0.2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/EvoSorting-1.0.2.cs",
+      "notifiedAt": "2025-11-05T09:51:11.162Z",
+      "contentHash": "e505946bb10bc5c64ca0ad8ba37dc6b9e63475482ba27931b60a583ea48b5c63",
+      "fileSize": 25367
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Dota_Rust/oxide parasha/plugins/AdminESP.cs",
+      "notifiedAt": "2025-11-05T09:51:13.277Z",
+      "contentHash": "e50286794000603b1e49e75791efe6514b602c77adf1d0cb01a961716b005455",
+      "fileSize": 41686
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/NPCController-1.1.2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/NPCController-1.1.2.cs",
+      "notifiedAt": "2025-11-05T09:51:15.179Z",
+      "contentHash": "425df3d6f56144cbc0705ba9ffd5fd867208275fc91beadbbedbf2e02147216f",
+      "fileSize": 24377
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AIQEventSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Just_Rust/Just Rust/plugins/AIQEventSystem.cs",
+      "notifiedAt": "2025-11-05T09:51:17.223Z",
+      "contentHash": "5055af660286f07da8fb1f0b5c6a73b192b33463bda546bcb67faa9ecd701673",
+      "fileSize": 30120
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/UpdateNotice.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/UpdateNotice.cs",
+      "notifiedAt": "2025-11-05T09:51:19.156Z",
+      "contentHash": "29259ef0034dd148f7d5e6f0d465c2de72be831d3013428d5c3243e970f5a0b5",
+      "fileSize": 26008
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-05T09:51:21.280Z",
+      "contentHash": "dd934bdd9e8e555afc4200c64b1bda2ee492f05df9a65b9b41993725ff30c4af",
+      "fileSize": 33410
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/ExtendedRecycler.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/ExtendedRecycler.cs",
+      "notifiedAt": "2025-11-05T09:51:23.149Z",
+      "contentHash": "c0253b9341134510c6ae66c9c0b16cb9b26a915df52fa343aa0a13439a29c2d3",
+      "fileSize": 20454
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EnhancedHammer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/EnhancedHammer.cs",
+      "notifiedAt": "2025-11-05T09:51:25.152Z",
+      "contentHash": "972f2d770ac3e168b368a45ecfbe82aeae8a019bc3ec4a8acc37053454947117",
+      "fileSize": 23101
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Farmer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/Farmer.cs",
+      "notifiedAt": "2025-11-05T09:51:27.204Z",
+      "contentHash": "5d61df0b1a64d71b903f710cd670b98ca3e88b85d0501250b726f7e50c8e162c",
+      "fileSize": 37265
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/TimedExecute.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/TimedExecute.cs",
+      "notifiedAt": "2025-11-05T09:51:29.160Z",
+      "contentHash": "3721ac13bf5c09cb59cb4b00da44a769d0d5f746a450e547dc89e7a1c58e050d",
+      "fileSize": 10184
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/QuickSmelt.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/QuickSmelt.cs",
+      "notifiedAt": "2025-11-05T09:51:31.133Z",
+      "contentHash": "4c3470d282a8c93dcd22a73dbeaadf54ae0c9d55a694a19e6b799689efea3eb9",
+      "fileSize": 19285
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Spectate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Spectate.cs",
+      "notifiedAt": "2025-11-05T09:51:33.232Z",
+      "contentHash": "0c212dca3434d17119f12c64f01941ea1b5b98b8182766b2859501f54bda32fe",
+      "fileSize": 19219
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/InfoPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Сборка сервера #1/Сборка сервера #1/plugins/InfoPanel.cs",
+      "notifiedAt": "2025-11-05T09:51:35.293Z",
+      "contentHash": "4ac03df6d7dfb1ef3c0990550b67e124170418a01fff45edabcb29d2829269ca",
+      "fileSize": 34089
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/SkinBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER_RUST/TRAVELER RUST/plugins/SkinBox.cs",
+      "notifiedAt": "2025-11-05T09:51:37.308Z",
+      "contentHash": "7a33de55e165cb0b9ebf76d760d851eda50960c0103441c090e693bebc314468",
+      "fileSize": 39653
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/Backpack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/EXPLOSIVERUST/EXPLOSIVERUST/plugins/Backpack.cs",
+      "notifiedAt": "2025-11-05T09:51:39.255Z",
+      "contentHash": "c48842f39da93ecc8c7aa46a78e335759cd9f109c1d02f82dade8767401164e9",
+      "fileSize": 44465
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/RandomSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/WONT-DAYZ_RUST/WONT RUST/plugins/RandomSpawns.cs",
+      "notifiedAt": "2025-11-05T09:51:41.125Z",
+      "contentHash": "50b7893bbc991131c81b3b9a11316d4637b3e68b0c8db756d247ffbc04be815a",
+      "fileSize": 13160
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Prod.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Drakess_state/Drakess state/plugins/Prod.cs",
+      "notifiedAt": "2025-11-05T09:51:43.120Z",
+      "contentHash": "e853951beda89e49f10054f7e3240a898c676a64f137418b3104584f7b1787d9",
+      "fileSize": 13112
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.0.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Friends-1.0.5.cs",
+      "notifiedAt": "2025-11-05T09:51:45.132Z",
+      "contentHash": "ebf9bc097bfbf40b9a2c50b02c95418daeb67b708462c10e0eb54fede4c0fb31",
+      "fileSize": 39342
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/QuickMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/CHIPPY_RUST/Сборка CHIPPY RUST/plugins/QuickMarker.cs",
+      "notifiedAt": "2025-11-05T09:51:47.296Z",
+      "contentHash": "52c7b1b3c606d6454fd1b84584b5d1866b1b8dd1524431db5541d154782c6161",
+      "fileSize": 16637
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/InsulatingTape.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/TRAVELER RUST/TRAVELER RUST/plugins/InsulatingTape.cs",
+      "notifiedAt": "2025-11-05T09:51:49.153Z",
+      "contentHash": "641892eb3ecf60578bc6c4f5692a5fd33f2f833eef174a90d77303be17fa7c2a",
+      "fileSize": 16185
     }
   },
   "version": 1,
-  "updatedAt": "2025-11-05T09:26:43.928Z"
+  "updatedAt": "2025-11-05T09:51:49.156Z"
 }
