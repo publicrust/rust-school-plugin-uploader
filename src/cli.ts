@@ -5,6 +5,7 @@
 // SOURCE: internal reasoning
 
 import { Command } from "commander";
+import { AxiosError } from "axios";
 import { fetchDeleted, fetchIndex, filterDeleted, getFile } from "./api.js";
 import { StateCache } from "./cache.js";
 import { DISCORD, FLAGS, SOURCES } from "./config.js";
@@ -114,37 +115,52 @@ export async function processAllPluginsSequentially(
       debug(`Attachment exceeds limit for ${rawUrl}; sending embed without file.`);
     }
 
-    await sendPluginWebhook(
-      plugin,
-      safeBuffer
-        ? {
-            name: attachmentName,
-            buffer: safeBuffer
-          }
-        : undefined
-    );
-
-    state.set({
-      key,
-      notifiedAt: new Date().toISOString(),
-      contentHash,
-      fileSha: plugin.file.sha,
-      fileSize: safeBuffer?.byteLength ?? plugin.file.size
-    });
-
-    // CHANGE: Persist state after each successful upload to ensure cache exists even mid-run.
-    // WHY: User requires cache file creation on every webhook delivery.
-    // QUOTE(TЗ): "Мне надо что бы он создавался при каждой загрузке плагина в дискорд."
-    // REF: REQ-6, REQ-10
-    // SOURCE: user request
-    await state.save();
-    uploaded += 1;
-    processedKeys.add(key);
-
-    if (index % 100 === 0 || index === pending.length) {
-      debug(
-        `Sequential upload progress: ${(processedBefore + index)}/${plugins.length} (pending ${index}/${pending.length})`
+    try {
+      await sendPluginWebhook(
+        plugin,
+        safeBuffer
+          ? {
+              name: attachmentName,
+              buffer: safeBuffer
+            }
+          : undefined
       );
+
+      state.set({
+        key,
+        notifiedAt: new Date().toISOString(),
+        contentHash,
+        fileSha: plugin.file.sha,
+        fileSize: safeBuffer?.byteLength ?? plugin.file.size
+      });
+
+      // CHANGE: Persist state after each successful upload to ensure cache exists even mid-run.
+      // WHY: User requires cache file creation on every webhook delivery.
+      // QUOTE(TЗ): "Мне надо что бы он создавался при каждой загрузке плагина в дискорд."
+      // REF: REQ-6, REQ-10
+      // SOURCE: user request
+      await state.save();
+      uploaded += 1;
+      processedKeys.add(key);
+
+      if (index % 100 === 0 || index === pending.length) {
+        debug(
+          `Sequential upload progress: ${(processedBefore + index)}/${plugins.length} (pending ${index}/${pending.length})`
+        );
+      }
+    } catch (error) {
+      const axiosError = error as AxiosError;
+      const status = axiosError.response?.status;
+      const statusText = axiosError.response?.statusText;
+      const responseBody = axiosError.response?.data;
+      logError(
+        `Webhook failed for ${rawUrl}: status ${status ?? "unknown"}${statusText ? ` ${statusText}` : ""} - ${axiosError.message}`
+      );
+      if (responseBody) {
+        debug(`Webhook response body: ${typeof responseBody === "string" ? responseBody : JSON.stringify(responseBody)}`);
+      }
+      // Continue without recording state so the plugin is retried on next run.
+      continue;
     }
   }
 

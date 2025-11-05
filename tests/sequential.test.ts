@@ -113,4 +113,34 @@ describe("processAllPluginsSequentially", () => {
     expect(state.set).toHaveBeenCalledTimes(1);
     expect(state.save).toHaveBeenCalledTimes(1);
   });
+
+  it("logs error and continues when webhook fails", async () => {
+    const plugins: IndexedPlugin[] = [
+      {
+        plugin_name: "Alpha",
+        file: { raw_url: "https://example.com/alpha.cs", path: "alpha.cs" },
+        repository: { full_name: "owner/alpha" }
+      },
+      {
+        plugin_name: "Beta",
+        file: { raw_url: "https://example.com/beta.cs", path: "beta.cs" },
+        repository: { full_name: "owner/beta" }
+      }
+    ];
+
+    getFileMock.mockResolvedValue(Buffer.from("class Plugin {}"));
+    const error = new Error("Webhook 400");
+    sendPluginWebhookMock.mockRejectedValueOnce(error).mockResolvedValueOnce(undefined);
+
+    const state = {
+      entries: vi.fn().mockReturnValue([]),
+      set: vi.fn(),
+      save: vi.fn().mockResolvedValue(undefined)
+    } satisfies Pick<import("../src/cache.js").StateCache, "entries" | "set" | "save">;
+
+    await processAllPluginsSequentially(plugins, state);
+
+    expect(sendPluginWebhookMock).toHaveBeenCalledTimes(2);
+    expect(state.set).toHaveBeenCalledTimes(1);
+  });
 });
